@@ -1,0 +1,4 @@
+Run this on Flask, you can also install requirements using requirements.txt
+pip install -r requirements.txt
+
+Once server Runing just go to browser - localhost:5000
