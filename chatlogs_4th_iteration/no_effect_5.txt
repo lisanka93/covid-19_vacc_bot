@@ -1,0 +1,13 @@
+User: It hasn't been tested properly 
+CB: safety_1
+User: Long term hasn't been tested 
+CB: long_term_1
+User: Lots of drugs and vaccines were used in the past which were believed to be safe and effective but caused mass problems 
+CB: default_1
+User: If we had a harder and longer lockdown last year we wouldn't be in this position 
+CB: default_2
+User: I don't go out except if very necessary 
+CB: default_3
+User: I don't.  They are all healthy. The vaccine could change that
+CB: young_1
+User: I had covid already. The vaccine worries me   more than getting it again

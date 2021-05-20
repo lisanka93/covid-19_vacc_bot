@@ -1,0 +1,7 @@
+User: i dont trust the ingredient that are used to make the vaccine 
+CB: default_1
+User: life will never be back to normal. the corona virus will always stays with us even if we do return back to normal life 
+CB: default_2
+User: the vaccine is not necessary and wont protect us because there still could be a chance of getting the virus.
+CB: default_3
+User: it dont need to worry about by health becuase i will be less likelly to get the virus because of my age. not everyone will want the vaccine and have different opinions and it will be hard to convince my family 

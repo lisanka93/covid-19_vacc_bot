@@ -1,0 +1,9 @@
+User: There is no way of knowing the long-term side effects
+CB: long_term_1
+User: I've already had COVID and therefore already have the antibodies
+CB: default_1
+User: Herd immunity can be achieved without the vaccine
+CB: default_2
+User: Nature's immunity is strong enough without a vaccine
+CB: default_3
+User: My family and I all have the antibodies

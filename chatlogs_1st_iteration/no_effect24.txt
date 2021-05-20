@@ -1,0 +1,13 @@
+User: I don’t think it’s been tested enough. Don’t trust it 
+CB: safety_1
+User: But medications have been made before given out then it’s been found out years down the line it has adverse effects 
+CB: short_term_1
+User: How can they know about long term side effects in years to come 
+CB: long_term_1
+User: Exactly the reason it’s unlikely I will be taking up 
+CB: default_1
+User: I enjoy lockdown 
+CB: default_2
+User: Multiple vaccines all from different companies I find it difficult to trust 
+CB: default_3
+User: That hasn’t been proven yet fully 

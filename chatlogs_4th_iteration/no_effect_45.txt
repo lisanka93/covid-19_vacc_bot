@@ -1,0 +1,11 @@
+User: I am scred of the side effects
+CB: short_term_1
+User: I will wear masks and maintain social distancing and make sure not to catch it
+CB: default_1
+User: with the necessary precautions we can do that now too
+CB: default_2
+User: we can also just all get the virus and get it over with finally and create herd immunity this way
+CB: get_covid_1
+User: ok
+CB: default_3
+User: i am not worried as we all adhere to social distancing and wear masks 

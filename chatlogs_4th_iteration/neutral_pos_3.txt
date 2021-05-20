@@ -1,0 +1,15 @@
+User: I do not trust that they have been adequately tested, most vaccines and treatments go through rigorous tests for years at a time before they are even considered for human use.
+CB: safety_1
+User: Has enough time passed to allow for negative side effects to show? 
+CB: short_term_1
+User: What about the long term side effects?
+CB: long_term_1
+User: Thank you, I still have doubts about whether or not the vaccine is safe, If a passport system is put in place then I will have to get the vaccine 
+CB: default_1
+User: By that logic I just have to wait for enough people to get the vaccine and wont need to get it myself.
+CB: default_2
+User: I disagree with the elderly getting the vaccine before younger people, some studies have shown that the virus affects all persons regardless of age.
+CB: default_3
+User: What about other strains of the virus, will we not end up in a "Common Cold" scenario?
+CB: mutation_1
+User: That's all well and good, but what about in 2-3 years time when another COVID variant makes the rounds, surely by then it will have had more than enough time to change significantly?

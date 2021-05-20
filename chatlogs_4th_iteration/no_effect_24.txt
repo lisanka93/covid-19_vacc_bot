@@ -1,0 +1,11 @@
+User: Because the vaccine is unnecessary.
+CB: default_1
+User: Herd immunity happens naturally.
+CB: default_2
+User: The vaccine is not the only way to create herd immunity.
+CB: default_3
+User: Because it can be cured with Hydroxychloroquine
+CB: get_covid_1
+User: Many People have died from the covid vaccine already!
+CB: death_1
+User: They have died from the vaccine

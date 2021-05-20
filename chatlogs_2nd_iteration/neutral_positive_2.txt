@@ -1,0 +1,11 @@
+User: Scared of needles 
+CB: default_1
+User: Side effects
+CB: short_term_1
+User: Getting ill 
+CB: get_covid_1
+User: Doesn’t stop you from getting the virus 
+CB: default_2
+User: Not everyone will get it so here immunity can’t be created
+CB: default_3
+User: Normality will take ages

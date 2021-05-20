@@ -1,0 +1,11 @@
+User: We haven't had enough time to test it
+CB: default_1
+User: That would be nice, but let's not be unrealistiv
+CB: default_2
+User: New Zealand/ Australia are COVID-19 free without a vaccine. Herd immunity isn't the only solution.
+CB: default_3
+User: I would worry because, like I mentioned before, we don't know the long term effects. Eg. How it will affect fertility - women looking to get pregnant in the future
+CB: long_term_1
+User: Nevertheless, long term effects are still an issue. We can't predict the future.
+CB: long_term_2
+User: There are multiple vaccines; each containing different ingredients.

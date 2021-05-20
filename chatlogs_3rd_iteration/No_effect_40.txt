@@ -1,0 +1,13 @@
+User: i dont feel like my. body would react well to it 
+CB: default_1
+User: i have two neurological conditions which mean if i have an adverse reaction i will suffer greatly 
+CB: short_term_1
+User: no we do not know the long term side effects 
+CB: long_term_1
+User: i understand but i believe the disadvantages outweigh the advantages 
+CB: default_2
+User: well hopefully we can come to some kind of solution which can benefit all and get life back on track 
+CB: get_covid_1
+User: well that shows its not as effective as first thought 
+CB: default_3
+User: well i will as its likely to exacerbate my condition greatly or even permanently and im not willing to take that risk . 

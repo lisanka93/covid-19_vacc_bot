@@ -1,0 +1,13 @@
+User: because the COVID vaccine will turn you into a lizard person 
+CB: default_1
+User: the COVID vaccine doesn’t stop you from catching COVID though 
+CB: get_covid_1
+User: ur a dumb bot like the vaccine 
+CB: default_2
+User: people die if they get the vaccine 
+CB: death_1
+User: vaccine doesn’t work
+CB: default_3
+User: Vaccine long term affects 
+CB: long_term_1
+User: Vaccine and the economy 

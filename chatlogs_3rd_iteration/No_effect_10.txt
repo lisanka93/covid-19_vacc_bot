@@ -1,0 +1,7 @@
+User: I don't trust it was fully and properly tested 
+CB: safety_1
+User: But the impact of vaccine in the future haven't been testet
+CB: default_1
+User: I really don't need it, my immune system is pretty much good
+CB: young_1
+User: Quit

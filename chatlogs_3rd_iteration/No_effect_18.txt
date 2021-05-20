@@ -1,0 +1,17 @@
+User: It has been made too quickly and barely been tested 
+CB: fast_dev_1
+User: Ok great but there are still definitely other solutions instead of getting the vaccine. There are a lot of other medicines that doctors have said could be used to treat it 
+CB: default_1
+User: Technically not as there is a new variant now 
+CB: mutation_1
+User: The Oxford vaccine is said to only be 8% effective towards the new variant therefore it is pretty much useless to get the vaccine as we can all still get covid. I would suggest using natural and herbal remedies to strengthen the immune system such as taking more vitamin c supplements 
+CB: default_2
+User: Some people are just allergic to them. The Pfizer in USA has caused a new deadly disease in which some people have died so testing has definitely happened too quickly and they have not found other causes that could occur due to people taking the vaccination
+CB: death_1
+User: These people are not of age. These people are healthy and are living well. This has been due to the vaccination. Children were also mentioned in this article 
+CB: young_1
+User: Yes I agree that covid affects everyone, not just the elderly but also the young. Children have died from taking the vaccine though
+CB: default_3
+User: That's not true as there can be other reactions that people are having to them
+END
+User: Quit

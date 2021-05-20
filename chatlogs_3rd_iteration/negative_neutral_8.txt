@@ -1,0 +1,19 @@
+User: Because apparently you can still get covid after getting it
+CB: get_covid_1
+User: some people have died from the vaccine
+CB: death_1
+User: hm ok makes sense. but what about side effects from it
+CB: default_1
+User: what about side effects?
+CB: short_term_1
+User: and long term side effects that cant be observed now?
+CB: long_term_1
+User: I am scared of needles and only take vaccines that I believe are absolutely necessary. I never got the flu shot and I doubt I will take this one
+CB: flu_1
+User: this is still a very low death rate
+CB: default_2
+User: what do you mean by that? who are those that cnanot get it?
+CB: default_3
+User: you didnt answer my question but ok - I would still be worried about potential long term effects
+CB: long_term_2
+User: ok. but what about all the new strains that are appearing? 

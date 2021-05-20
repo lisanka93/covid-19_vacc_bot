@@ -1,0 +1,11 @@
+User: There has not been enough testing performed on these vaccines.
+CB: safety_1
+User: I am not convinced of this.  I also do not feel like the "success" rate is sufficient enough.
+CB: default_1
+User: You do not need a vaccine to achieve herd immunity.
+CB: default_2
+User: This is false information.  A vaccine is not the "only safe way to create herd immunity".
+CB: default_3
+User: This is also false.  These vaccines do not prevent you from getting the virus.
+CB: get_covid_1
+User: I do not feel that this is necessarily the truth.  There is a specific demographic that is vulnerable to this virus. 

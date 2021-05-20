@@ -1,0 +1,17 @@
+User: Well I have heard from NHS professionals that doctors are divided whether it is safe to take if you are pregnant. I am not currently pregnant but I don’t want any adverse side effects if I do decide to start a family.
+CB: short_term_1
+User: AnNHS professional told me that it effects fertility in women for up to 8 months. If this is what we know now, what further side effects could we know in 10 years?
+CB: short_term_2
+User: My boyfriends grandpa received the covid vaccine and2
+CB: default_1
+User: *my boyfriends grandpa received the covid vaccine and 2 days later was hospitalised with a severe chest infection. With regards to your point about herd immunity, it’s a virus that will continue to mutate - once it is in our society it will not go away completely - unfortunately that is the nature of a virus.
+CB: mutation_1
+User: The flu vaccine needs to be redeveloped and administered every year to continue having an effect, as flu viruses mutate too. So yes, covid mutating would mean that the vaccine is redundant depending on what strain of the virus you have.
+CB: mutation_2
+User: But it has been shown that having the vaccine does not prevent you from becoming infected again, nor does it prevent you from infecting other people. So why have it? That is not a credible vaccine.
+CB: get_covid_1
+User: How can a credible vaccine be developed in such a short space of time though? Doctors have speculated how it can be developed so quickly when vaccines normally take years to develop and monitor adverse side effects.
+CB: default_2
+User: I believe that those who cannot afford to contract the virus (e.g. immune compromised, prior health conditions, etc.) should receive it. However those with a healthy immune system should be able to choose and not have the vaccine forced upon them. Healthy people being exposed to it and building up a natural tolerance will also create herd immunity.
+CB: young_1
+User: Quit

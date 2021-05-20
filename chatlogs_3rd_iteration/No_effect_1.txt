@@ -1,0 +1,7 @@
+User: Im prone to not feeling well after immunisations, i am not confident this will be enoigh to make make immune from getting COVID-19 
+CB: default_1
+User: That doesnt affect me as i fully work from home and enjoy doing so
+CB: default_2
+User: No confidence in government or the overstretched NHS 
+CB: default_3
+User: I feel that what the government wants us to think like that

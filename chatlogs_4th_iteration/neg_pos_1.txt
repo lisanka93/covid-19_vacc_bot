@@ -1,0 +1,23 @@
+User: I am healthy and not worried to catch COVID
+CB: young_1
+User: I am willing to take the risk over vaccine side effects
+CB: short_term_1
+User: there are short term side ffects too??? I was worried about long term side effects but now there is no way I wil ltake it
+CB: short_term_2
+User: long term side effects thgough!!
+CB: long_term_1
+User: no way a vaccine that was developed in half a year is safe
+CB: safety_1
+User: but you cannot test on long term side effects no matter how many stages are done simultaneously
+CB: long_term_2
+User: so this vaccine doesnt contain the virus?
+CB: mutation_1
+User: thta doesnt answer my question but ok. yea, what about mutations?
+CB: mutation_2
+User: ok
+CB: default_1
+User: yes
+CB: default_2
+User: probably
+CB: default_3
+User: that is not true as there are worse things than corona that can happen

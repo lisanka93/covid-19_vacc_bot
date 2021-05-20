@@ -1,0 +1,9 @@
+User: it is dangerous to human body
+CB: default_1
+User: that is not a valid argument why i should get it in the first place
+CB: default_2
+User: what about people who already contained virus?
+CB: default_3
+User: that is non sense, even if the vaccine was the only cure, we should have multiple shots in such a short time
+END
+User: quit

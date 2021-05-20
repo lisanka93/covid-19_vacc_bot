@@ -1,0 +1,19 @@
+User: Not enough research and the additives in the vaccine are dangerous
+CB: safety_1
+User: It was rushed 
+CB: fast_dev_1
+User: Because the vaccine was made so quick. 
+CB: fast_dev_2
+User: The long term effects were still not studied
+CB: long_term_1
+User: I would be worried about long term effects 
+CB: long_term_2
+User: I don't want to be any of those cases
+CB: default_1
+User: Said it before it is not safe or known the long term effects
+CB: long_term_3
+User: I would rather take my risk
+CB: default_2
+User: I would rather have covid
+CB: default_3
+User: Many people who got covid haven't even gotten that sick

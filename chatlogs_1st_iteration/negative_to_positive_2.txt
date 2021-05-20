@@ -1,0 +1,9 @@
+User: Despite being tested on others, I fear for the side effects that may occur 
+CB: short_term_1
+User: ok
+CB: default_1
+User: yes, i do agree. but this can first be solved by people actually listening to the lockdown procedures
+CB: default_2
+User: YES
+CB: default_3
+User: I am still a little hesitant, but if it means helping resolve these issues yes

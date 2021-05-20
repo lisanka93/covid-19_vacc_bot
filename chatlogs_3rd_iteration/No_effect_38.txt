@@ -1,0 +1,17 @@
+User: I do not believe it is safe yet
+CB: safety_1
+User: I understand this but it was to quickly put out for humans
+CB: fast_dev_1
+User: That’s good but trials take 7 to 10 years not 8months
+CB: default_1
+User: You are right but we still don’t know the long term side affects from this drug or even from covid
+CB: long_term_1
+User: I have read and heard about long Covid. My son has done hours off reading in this subject 
+CB: long_term_2
+User: This is not true. Drugs have been made fast before in the last 20years and law suits are out against the drug companies 
+CB: fast_dev_2
+User: Once again I do not believe this as Covid was man made and no one knew about this
+CB: default_2
+User: This drug will not stop us getting the virus it will only help in not getting it so bad
+CB: default_3
+User: You always have to worry about your health. Drugs can’t fix everything 

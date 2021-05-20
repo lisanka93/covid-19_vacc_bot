@@ -1,0 +1,13 @@
+User: IT DOES NOT PREVENT ME FROM GETTING It 
+CB: get_covid_1
+User: if the queen has the vaccine I've then i will
+CB: default_1
+User: herd immunity only works if its mandatory 
+CB: default_2
+User: stated already the vaccine does not prevent you from hgettingf it so how would herd immunity work
+CB: default_3
+User: lol bot got jokes i would never advise my family to do such a thing 
+END
+User: quit
+END
+User: quit

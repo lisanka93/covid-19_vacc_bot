@@ -1,0 +1,9 @@
+User: It's new and hasn't been around long
+CB: long_term_1
+User: Thank you for that
+CB: default_1
+User: That is what I want
+CB: default_2
+User: That sounds good but there's still fears
+CB: default_3
+User: Yes 

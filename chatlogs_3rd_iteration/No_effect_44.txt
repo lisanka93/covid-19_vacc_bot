@@ -1,0 +1,9 @@
+User: because I'm afraid of the side affects
+CB: short_term_1
+User: ok!
+CB: default_1
+User: yes, that is if the true but if the sides affects are fatal, is it worth it?
+CB: default_2
+User: that is true
+CB: default_3
+User: well I usually try to not take any sort of medecine and keep my bode natural

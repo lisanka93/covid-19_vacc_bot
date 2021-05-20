@@ -1,0 +1,17 @@
+User: The vaccine was not tested long enough to show that there is not any side effects on health 
+CB: default_1
+User: Some people can die or get seriously ill for taking the vaccine 
+CB: death_1
+User: None of the available vaccine is 100 percentage 
+CB: default_2
+User: I would not trust to a goverment and the scientist at the moment. Everyone who taked the vaccine is ginny pig 
+CB: default_3
+User: Vaccine do bot have the 100 sussess rate.
+CB: survival_rate_1
+User: Who knows what side effects short and long term the vaccine can bring to people. It may be even worst than Covid itself 
+CB: long_term_1
+User: It is also a very htpothetical to suggest that i can get Covid19. 
+CB: get_covid_1
+User: There are some people who reported sideeffects already after taking it. There are some people who still died from Covid even after taking the vaccine 
+END
+User: Quit

@@ -1,0 +1,13 @@
+User: I'm scared of the side effects
+CB: short_term_1
+User: what about the long term side effects?
+CB: long_term_1
+User: what about costs?
+CB: default_1
+User: okay
+CB: default_2
+User: but you will still be able to transmit the virus
+CB: mutation_1
+User: okay
+CB: default_3
+User: okay

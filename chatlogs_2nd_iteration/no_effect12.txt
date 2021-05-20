@@ -1,0 +1,7 @@
+User: i don't know what is in the vaccine
+CB: default_1
+User: there are other ways to be able to achieve that 
+CB: default_2
+User: but we don't know how effective the vaccine is
+CB: default_3
+User: some people are naturally recovering from covid without taking any medication

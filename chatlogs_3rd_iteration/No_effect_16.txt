@@ -1,0 +1,7 @@
+User: Dont think enough research has been done yet
+CB: default_1
+User: Yeah i agree
+CB: default_2
+User: No,i think our bodies can fight off the virus
+CB: default_3
+User: You can still get virus with vaccine

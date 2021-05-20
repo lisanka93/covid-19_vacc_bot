@@ -1,0 +1,9 @@
+User: Worried about the side effects
+CB: short_term_1
+User: Sure
+CB: default_1
+User: ok
+CB: default_2
+User: Yes I think so
+CB: default_3
+User: I have, but I am self-isolating as much as possible

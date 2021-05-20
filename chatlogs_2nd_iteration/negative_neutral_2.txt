@@ -1,0 +1,9 @@
+User: I think its too early for a vaccine
+CB: default_1
+User: Possibly but the vaccination success rate is not as effective especially with the new strain
+CB: default_2
+User: It is still possible to react adversely to the vaccine and end up still spreading the virus
+CB: mutation_1
+User: We cannot be assured that it will not protect from future strains
+CB: default_3
+User: I may have to worry as people react differently both to the virus and the vaccine

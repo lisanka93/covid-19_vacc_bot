@@ -1,0 +1,9 @@
+User: Hasn't been throuroughly tested
+CB: safety_1
+User: not all demographics were a part of the clinical trials
+CB: default_1
+User: then allow the herd immunity to protect me
+CB: default_2
+User: i may have an allergy to the vaccine
+CB: default_3
+User: i believe people should be allowed to choose for themselves

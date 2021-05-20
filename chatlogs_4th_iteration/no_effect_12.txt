@@ -1,0 +1,15 @@
+User: I think everything has been to quick and I don't really believe in plying my body with chemical drugs
+CB: fast_dev_1
+User: As I said I don't like taking any drugs I prefer to have natural treatment
+CB: default_1
+User: I think this wil happen anyway. The government stated that the flu deaths are down by 95%, but have these deaths been recorded as Covid?
+CB: default_2
+User: I don't believe that, I think that our immune system is strong and alot of the deaths that have been recorded have been people with other illnesses before Covid even appeared
+CB: young_1
+User: Ive seen this explanation before of the long term effects but they never state the long term side effects caused by the vaccine in some people
+CB: long_term_1
+User: But how do you know? All drugs have side effects that only means we have to take more drugs for those side effects and it is just is a drug circle
+CB: short_term_1
+User: From what I understand by law all vaccines have to be tested over a five year period. This one wasn't
+CB: default_3
+User: Because I think the only people that are benefiting from all of this is the pharmaceutical companies and the people who have high shares in them

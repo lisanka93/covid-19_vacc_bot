@@ -1,0 +1,7 @@
+User: I don't feel I need one - I'm not a vunerable group
+CB: default_1
+User: Well yeah, if I HAVE to have one to travel then I will
+CB: default_2
+User: ok
+CB: default_3
+User: some people don't get vaccines for anything, in general

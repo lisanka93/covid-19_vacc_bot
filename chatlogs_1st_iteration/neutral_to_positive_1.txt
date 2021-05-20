@@ -1,0 +1,23 @@
+User: I don’t think the Covid 19 vaccine has been thoroughly tested 
+CB: safety_1
+User: Steps might not have been skipped, but I’m not sure I trust any of the data from the trials. These developers may have other agendas 
+CB: default_1
+User: I understand that but what if this is all a conspiracy anyway? The government could have ulterior motives for stalling sections of the economy and controlling the population in this way 
+CB: default_2
+User: I’m not sure that it is. This vaccine has been passed too quickly. I don’t understand how they can find a vaccine so quickly for this but not other things like cancer  
+CB: fast_dev_1
+User: I don’t believe that. Other illnesses and viruses get a lot of funding and still are virtually no further forward
+CB: default_3
+User: I’m not worried about my health at the moment. I’m washing my hands and wearing a mask. I’m doing the best I can and my family and friends are too. I’m worried if they get the vaccine there may be side effects from it
+CB: short_term_1
+User: Short term side effects could be very detrimental for some people. I am concerned how my body would react to the vaccine 
+CB: short_term_2
+User: I don’t have a good immune system anyway, and whilst this may be an incentive for getting the vaccine I also worry that it could be worse 
+CB: young_1
+User: Long Covid does sound really bad, but it’s still not enough to convince me to get the vaccine yet. I want to wait and see what happens as the programme is rolled out
+CB: long_term_1
+User: I think it’s too early to speculate that long term effects are more likely from Covid than they are the vaccines. People thought for many years smoking was safe before realising it wasn’t 
+CB: long_term_2
+User: Science is wonderful but it isn’t always right. This programme has been rushed and I’m not convinced the vaccine is right for me despite being a frontline worker
+CB: fast_dev_2
+User: If that was the case then they should be able to find cures or vaccines to other serious illnesses, again like cancer

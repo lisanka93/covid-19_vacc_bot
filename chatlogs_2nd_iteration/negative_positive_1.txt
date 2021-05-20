@@ -1,0 +1,10 @@
+User: I do not want to take the vaccine because i am not so sure about the side-effects of it. Other reasons include companies not having enough time to thoroughly research all aspects of the vaccine before rolling it out and governments were extra keen to get it rolled out ASAP so that they can focus on the economy.
+CB: default_1
+User: The possible danger from side-effects is more problematic to me than going out with friends. I can live without that as my health is more important.
+CB: short_term_1
+User: ok, Ill have a read
+CB: default_2
+User: Are you sure about that?
+CB: default_3
+User: that is true
+

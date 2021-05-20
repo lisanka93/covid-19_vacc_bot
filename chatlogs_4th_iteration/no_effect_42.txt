@@ -1,0 +1,9 @@
+User: I dont think its the right choice for me. I dont know what the compications may be onece i have children. 
+CB: fertility_1
+User: Theres no evidence to prove otherwise either
+CB: default_1
+User: Thats not worth my unborn childrens life
+CB: default_2
+User: Still not worth hurting my child over 
+CB: default_3
+User: Still not worth putting my child at risk

@@ -1,0 +1,7 @@
+User: because it has been made to quickly, and also it is the same symptoms as flu, which usually doesn't need any form of vaccine or medication for it 
+CB: default_1
+User: I'm sure we'll ever go back to normal life tbh, this is the norm now 
+CB: default_2
+User: I'm sure it won't, and every year around winter covid 19 will come back
+CB: default_3
+User: how so? the covid vaccine isn't gonna stop any other sickness that I may get

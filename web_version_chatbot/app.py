@@ -8,14 +8,15 @@ import re
 import time
 from datetime import datetime
 import numpy as np
-import pickle
+import pickle5 as pickle
 import os
 from nltk.stem import WordNetLemmatizer
+from nltk import word_tokenize
 import copy
 
 cwd = os.getcwd()
 
-pickle_path = cwd + "/chatlogs_web/"
+pickle_path = cwd + "/demo/"
 
 filename = 'finalized_model.sav'
 filename1 = 'finalized_model_agreement.sav'
@@ -51,7 +52,7 @@ def preprocess(raw_text):
     letters_only_text = re.sub("[^a-zA-Z]", " ", raw_text)
 
     # convert to lower case and split
-    words = letters_only_text.lower().split()
+    words = word_tokenize(letters_only_text.lower())
 
     # remove stopwords
     cleaned_words = []
@@ -117,11 +118,11 @@ def return_arg_and_concern(user_mes, concern_dic ): #, prev_cb_responses):
     message_sen = sen = ' '.join(message_prep) # as string for classifier
     message_features = transformer_agreement.transform([message_sen])
     concerns_, preds = get_top_k_predictions_(concern_model_agreement, message_features, 2)
-    #print(concerns_, preds)
-    print(concerns_)
+    print(concerns_, preds)
+    #print(concerns_)
 
     """  check if agreement   """
-    if concerns_[0] == 'agree' and preds[0] > 0.7 and len(user_mes.split()) < 13:
+    if concerns_[0] == 'agree' and preds[0] > 0.5 and len(user_mes.split()) < 13:
         concern = 'agree'
 
         possible_responses = concern_dic['default']
@@ -139,7 +140,7 @@ def return_arg_and_concern(user_mes, concern_dic ): #, prev_cb_responses):
     """
     NO CONCERN - SO RETURN DEFAULT ARGUMENT OR IF THATS EMPTY RESPONSE ID = 0
     """
-    if preds[0] <= 0.4:
+    if preds[0] < 0.4:
         concern = 'default'
         possible_responses = concern_dic[concern]
         if possible_responses == []:
@@ -148,33 +149,6 @@ def return_arg_and_concern(user_mes, concern_dic ): #, prev_cb_responses):
         else:
             response_id = possible_responses[0]
             return (concern, response_id)
-
-    #TWO CONCERN - CHECK FOR FIRST CONCERN AND RETURN IT, IF EMPTY CHECK FOR SECOND, IF AGAIN FAIL CHECK DEFAULT
-
-    elif preds[0] > 0.4 and preds[0] <= 0.5:
-
-            concern_1 = concerns_[0]
-            concern_2 = concerns_[1]
-
-            possible_responses_1 = concern_dic[concern_1]
-            possible_responses_2 = concern_dic[concern_2]
-            possible_responses_3 = concern_dic['default']
-            if possible_responses_1 == []:
-                if possible_responses_2 != []:
-                    response_id = possible_responses_2[0]
-                    return (concern_2, response_id)
-                else:
-                    if possible_responses_3 != []:
-                        response_id = possible_responses_3[0]
-                        return ('default', response_id)
-                    else:
-                        concern = "no concern"
-                        return (concern, response_id)
-
-            else:
-                response_id = possible_responses_1[0]
-                return (concern_1, response_id)
-
 
 
     else:
@@ -211,13 +185,13 @@ def make_session_permanent():
 
 @app.route("/")
 def home():
+    session.clear()
     print(session)
     if "user_id" not in session:
         print('new user')
         # use this session["user_id"], try printing
         user_id = str(uuid.uuid1())
         session["user_id"] = uuid.uuid1()
-        session['bot_replies'] = ['test1', 'test2', 'test3']
         session['concern_dic'] = copy.deepcopy(concern_dic)
         session['chatlogs'] = []
 
@@ -233,16 +207,22 @@ def get_bot_response():
 
     if "prolific_id" not in session:
         session['prolific_id'] = user_mes
-        bot_reply = "Great, thanks. Don't forget, you can always let me know you want to end the chat by typing 'quit'.\n \nSo tell me, why would you not consider getting a COVID-19 vaccine, should one be developed?"
+        bot_reply_1 = "Nice to meet you! You can always let me know you want to end the chat by typing 'quit'.\n Also, I might provide some links to more information during our chat - if you want to check them out, please copy-paste them into a new browser window and do not close this one. Ok?"
         session['chatlogs'].append(user_mes)
-        #time.sleep(random.randint(5, 10))
-        return bot_reply
+        #print(len(session['chatlogs']))
+        return bot_reply_1
+
+    elif len(session['chatlogs']) == 1:
+        bot_reply_2 = "Cool! So tell me, why don't you want to take a COVID-19 vaccine (once one becomes available to you)"
+        session['chatlogs'].append("START")
+        return bot_reply_2
 
     elif stop == 'quit':
-        bot_reply = "You are ending the chat. It has been nice talking with you. I hope you think about my points and do consider taking the vaccine if it becomes available. Please return to the survey. Good bye! "
+        bot_reply = "You are ending the chat. It has been nice talking with you. I hope you think about my points and do consider taking the vaccine if it becomes available. Good bye! "
 
         log_mes= "User: " + user_mes
         session['chatlogs'].append(log_mes)
+        session['chatlogs'].append("END")
 
         pickle_file_name = pickle_path + str(session["user_id"]) + ".pickle"
 
@@ -254,6 +234,10 @@ def get_bot_response():
     else:
         concern, response_id = return_arg_and_concern(user_mes, session['concern_dic'])
 
+        if session['chatlogs'][-1] == "END":
+            bot_reply = "Good bye :)"
+            return bot_reply
+
         if concern == 'disagree':
             disag = ['Why?', 'Why not?']
             bot_reply = random.choice(disag)
@@ -261,11 +245,12 @@ def get_bot_response():
             return bot_reply
 
         if response_id == 0:
-            bot_reply = "I'll stop here. It has been nice talking with you. I hope you think about my points and do consider taking the vaccine if it becomes available. Please return to the survey. Good bye! "
+            bot_reply = "I'll stop here. It has been nice talking with you. I hope you think about my points and do consider taking the vaccine if one becomes available. Please return to the form. The password is 2021. Good bye! "
 
             #adding last argument where no match was found to chatlog
             log_mes= "User: " + user_mes
             session['chatlogs'].append(log_mes)
+            session['chatlogs'].append("END")
 
             pickle_file_name = pickle_path + str(session["user_id"]) + ".pickle"
             with open(pickle_file_name, 'wb') as handle:
@@ -276,7 +261,7 @@ def get_bot_response():
         else:
             add_a = False
             add_d = False
-            add_default = ["Ok, but ", 'I understand, however, ', 'But have you considered that ', 'Nevertheless, ', 'Nonetheless, ', 'Despite that, ']
+            add_default = ["Noted. But ", 'I understand, however, ', 'But have you considered that ', 'Nevertheless, ', 'Nonetheless, ', 'Despite that, ']
             add_agree = ['Thanks. Also, have you considered that ', 'I\'m glad. Also, ', 'I\'m happy you agree. Don\'t you also think that ']
             #check whether agree or DEFAULT
             print(concern)

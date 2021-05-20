@@ -1,0 +1,11 @@
+User: because it doesnt stop you catching the virus and its been rushed and only approved for emergency use
+CB: default_1
+User: we can gain herd immunity from catching the virus normally
+CB: get_covid_1
+User: but lots of people have died from having the vaccine or even caught covid shortly after the vaccine
+CB: death_1
+User: but it is suspicous that they die within days or even hours after the vaccine when were perfectly well before and could have lived for many more years we cant say just because they are old they were going to die soon anyway
+CB: default_2
+User: many have had severe reactions also
+CB: default_3
+User: theres not enough evidence on different blood groups and how they react to the vaccine 

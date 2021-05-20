@@ -1,0 +1,13 @@
+User: I personally feel the vaccine can cause detrimental side affects
+CB: default_1
+User: Not with the new variant we won’t 
+CB: mutation_1
+User: The the vaccine was rushed, how can we trust it
+CB: fast_dev_1
+User: The clinical trials could have false information 
+CB: default_2
+User: Taking the vaccine, does not reduce the risk as it could be ineffective
+CB: default_3
+User: It could result in getting more ill
+CB: get_covid_1
+User: hmmm ok

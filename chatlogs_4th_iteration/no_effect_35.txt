@@ -1,0 +1,9 @@
+User: Covid is around 99.6. % recoverable, why risk toxins in your body for a virus that is so low risk
+CB: default_1
+User: We should be doing that anyway
+CB: default_2
+User: No, the virus would achieve herd immunity of its own accord
+CB: default_3
+User: I am not worried about getting the virus, or my family getting the virus.
+CB: get_covid_1
+User: The NHS is not going to collapse, it is only full due to so many beds been cut

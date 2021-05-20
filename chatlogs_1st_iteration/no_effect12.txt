@@ -1,0 +1,13 @@
+User: I have strong immunity
+CB: default_1
+User: we can still live life with no vaccine like we did before
+CB: default_2
+User: I dont believe their is prove that this vaccine will stop the spread of the virus, so too much of contradictions 
+CB: mutation_1
+User: but their is no evidence neither that it works
+CB: default_3
+User: I don't worry about my health like you assume 
+CB: young_1
+User: how about the effects of the vaccine it self 
+CB: short_term_1
+User: people are dying from the vaccine 

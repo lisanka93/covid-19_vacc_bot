@@ -1,0 +1,9 @@
+User: I don't think it has been around for long enough
+CB: long_term_1
+User: It is more about whether enough research has been done 
+CB: default_1
+User: Yes however I don't feel I need it as much as others. I am not clinically vulnerable or elderly
+CB: default_2
+User: Will that ever be fully achieved though?
+CB: default_3
+User: I am all for people getting the vaccine, I just don't think I am in need of it as much as others

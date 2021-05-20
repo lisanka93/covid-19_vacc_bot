@@ -1,0 +1,21 @@
+User: There are more important people that need than me. I’ve just finished my isolation period after testing positive and had no symptoms at all. Only knew I was positive because I test regularly for working in a school. 
+CB: safety_1
+User: Long term affects won’t be known for a long time. 
+CB: long_term_1
+User: Being 26 and having just had Covid 19 with no symptoms, long covid does not affect me. 
+CB: long_term_2
+User: That’s also a hypothetical argument. Despite the differences there could still be long term health implications that are currently unknown. 
+CB: long_term_3
+User: Depending on your age. 
+CB: default_1
+User: I think that will happen if everyone over a certain age where covid is affecting them are vaccinated. Shouldn’t be forced upon younger people. 
+CB: get_covid_1
+User: But we still don’t know how often everyone would need to be vaccinated abs how long immunity lasts. 
+CB: long_term_4
+User: Assumptions aren’t good enough for me. 
+CB: default_2
+User: You’ve just argued that you can still transmit it with the vaccine so I don’t believe it will protect us all if there are people unable to get it. 
+CB: death_1
+User: I hadn’t heard of people dying from it. 
+CB: default_3
+User: I think everyone worries about there health regardless and there are many other viruses about such as flu. 

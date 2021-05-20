@@ -1,0 +1,11 @@
+User: it may have side effects
+CB: short_term_1
+User: i would rather wait until those side effects are reduced to acceptable level
+CB: short_term_2
+User: but those can be harmful to your body
+CB: default_1
+User: i wonder are these vaccine really working or not
+CB: default_2
+User: are they also working to the new variant
+CB: default_3
+User: what about the new variant 

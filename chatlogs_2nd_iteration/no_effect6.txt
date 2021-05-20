@@ -1,0 +1,9 @@
+User: because it was created way too fast compared to any other vaccine
+CB: fast_dev_1
+User: ok
+CB: default_1
+User: yes
+CB: default_2
+User: yes
+CB: default_3
+User: true

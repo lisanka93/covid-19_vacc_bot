@@ -1,0 +1,7 @@
+User: I’ve had Covid already and didn’t have any symptoms
+CB: default_1
+User: The vaccine doesn’t make you immune
+CB: default_2
+User: The vaccine doesn’t stop you spreading it
+CB: default_3
+User: I had Covid already

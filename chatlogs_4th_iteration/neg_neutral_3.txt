@@ -1,0 +1,13 @@
+User: Because we don't know what effects it may have as not been out long enough.
+CB: long_term_1
+User: How can you be sure what the effects will be after 1 month, 1 year?
+CB: short_term_1
+User: I still dont see the point of taking it given the low death rate
+CB: survival_rate_1
+User: maybe
+CB: default_1
+User: Why if everyone is being vaccinated by May, why do we still have to socially distance until autumn or longer?
+CB: default_2
+User: Really, how do we not know it wont just die out?
+CB: default_3
+User: Maybe for the elderly but young people will not be affected badly, it is not better to have natural immunity?

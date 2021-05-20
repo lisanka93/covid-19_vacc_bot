@@ -1,0 +1,13 @@
+User: I am young and healthy and also never get the flu vaccine
+CB: young_1
+User: but the same is true for the flu - I am sure if you are young and healthy the chances are less likely to get long covid
+CB: young_2
+User: the chances are still very low, so I don't think a vaccine is necessary
+CB: default_1
+User: that is very true
+CB: default_2
+User: also true, but I have to admit, I believe those that cannot get it or are at risk should be locked up and not the whole population
+CB: default_3
+User: I am not worried about it anyway
+CB: short_term_1
+User: huh?

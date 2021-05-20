@@ -1,0 +1,15 @@
+User: covid is not a super deadly virus
+CB: default_1
+User: we could also do now if the health care system wasnt that rubbish and people would be healthier
+CB: young_1
+User: these days in the western world the majority of people are not healthy and overweight, have diabetes etc, those are the ones that should be worried and get the vaccine
+CB: young_2
+User: agree but the chances are very low. if all fat and sick people get vaccinated and the healthy ones dont, the percentage of dangerous cases will be very low and not overburden the healthcare system of any country
+CB: young_3
+User: well those are the people who should get vaccinated then
+CB: default_2
+User: that is true I havent though of that
+CB: default_3
+User: as I said, I am not worried about it anyway
+CB: short_term_1
+User: i dont get it, what does that have to do with what I said?

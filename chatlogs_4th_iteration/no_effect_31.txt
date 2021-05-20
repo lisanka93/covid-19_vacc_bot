@@ -1,0 +1,7 @@
+User: Because I don't like needles and I am wary of putting things into my body that are unknown
+CB: default_1
+User: Allegedly
+CB: default_2
+User: I don't really care to do any of that anyhow
+CB: default_3
+User: I don't worry about myself and I wouldn't convince anyone to get the vaccine

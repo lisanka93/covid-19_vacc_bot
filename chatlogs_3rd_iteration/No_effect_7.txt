@@ -1,0 +1,9 @@
+User: because im scared of needles
+CB: default_1
+User: im young
+CB: young_1
+User: ill just die young anyway
+CB: default_2
+User: ill avoid the people who didnt get it
+CB: default_3
+User: even if i get the vaccine lockdown is still up until like 90% are vaccinated

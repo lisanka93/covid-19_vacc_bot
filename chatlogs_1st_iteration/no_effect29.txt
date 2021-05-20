@@ -1,0 +1,17 @@
+User: Firstly because I am very sensitive
+CB: default_1
+User: I understand that but as I said I'm really sensitive and could easily get a reaction if i have the vaccine
+CB: short_term_1
+User: I'm not talking about temporary side effects Im talking about long lasting ones
+CB: short_term_2
+User: As I said Im not talking about short term side effects Im talking about long term ones
+CB: long_term_1
+User: I also dont think this vaccine has been around long enough to know if it's safe
+CB: long_term_2
+User: What about the metal they put in the vaccines they put aliminium in there and that's really bad for you
+CB: default_2
+User: I'm not willing to sacrifice my own health for herd immunity
+CB: default_3
+User: I will have to worry about my health if I have a reaction to the vaccine
+END
+User: quit

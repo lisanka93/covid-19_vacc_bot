@@ -1,0 +1,15 @@
+User: I am an anti-vaxxer in general. My son didn't have any of the childhood vaccines, I took the homoeopathic route instead.
+CB: default_1
+User: I believe that COVID 19 will die out in much the same way as the Spanish Flu.
+CB: flu_1
+User: I didn't compare it to the flu.
+CB: flu_2
+User: That's one of my worries - there is so much we don't know about the vaccine - efficacy, long-term side effects and how often the vaccine is needed.
+CB: long_term_1
+User: No one can say that the long term effects of the vaccine are less than COVID as it hasn't been tested enough.
+CB: long_term_2
+User: Vaccines that were given in the past shouldn't really be taken in to account - people live better now. We have clean water, good nutrition and housing.
+CB: default_2
+User: Because we are all (scientists, government the medical profession) dealing with something we know so little about.
+CB: default_3
+User: I would worry more about my health and my family's health if we had it.

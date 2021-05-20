@@ -1,0 +1,9 @@
+User: I think it’s only for the elderly people and to be honest, I’m doing good with mask. So instead of the vaccine, you should encourage more people to wear their mask properly.
+CB: default_1
+User: Well if everyone are wearing their mask properly, the case would be decreased anyway. I don’t want the needle in my body and I don’t even sure how much it works.
+CB: default_2
+User: I think wearing a mask is enough and a way to avoid covid. You can’t prove it’s 100% success rate to avoid covid.
+CB: survival_rate_1
+User: I mean the vaccine is not guarantee to avoid covid, it’s just decreasing the rate of getting it
+CB: default_3
+User: I don’t think the vaccine is working for everyone.

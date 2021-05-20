@@ -1,0 +1,9 @@
+User: Not sure Ernst have been tested enough 
+CB: safety_1
+User: Because no vaccine created before 5 years before 
+CB: default_1
+User: I don’t believe this 
+CB: default_2
+User: New variants mean it will still spread 
+CB: default_3
+User: I will worry about health 

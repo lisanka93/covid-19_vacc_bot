@@ -1,0 +1,9 @@
+User: Well,  I believe the vaccine production was rushed and would definitely have it's flaws,  which can be deadly to the health. 
+CB: default_1
+User: True.  But same applies if this vaccine production goes wrong,  it can be very devastating 
+CB: default_2
+User: Vaccine is only safe if it's produced properly with thorough research 
+CB: safety_1
+User: We can't tell what procedure was used.  They only tell us what they want us to hear
+CB: default_3
+User: They are numerous complaint from those who received the vaccine 

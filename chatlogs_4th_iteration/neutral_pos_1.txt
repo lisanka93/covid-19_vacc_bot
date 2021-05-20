@@ -1,0 +1,9 @@
+User: because i am not old or immune compromised
+CB: default_1
+User: yes
+CB: default_2
+User: but it is unclear how long the vaccine would protect us and whether its effective on the new variants
+CB: mutation_1
+User: but one day it might mutate too much
+CB: default_3
+User: yes

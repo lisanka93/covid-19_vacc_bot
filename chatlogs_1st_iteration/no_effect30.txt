@@ -1,0 +1,7 @@
+User: scared of needles
+CB: default_1
+User: but im terrified of needles m8
+CB: default_2
+User: you havent addressed my concern
+CB: default_3
+User: i dont want to relive the trauma of needles thats what worries me

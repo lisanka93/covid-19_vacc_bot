@@ -1,0 +1,13 @@
+User: Because it hasn’t had enough testing 
+CB: safety_1
+User: Other vaccines take longer to become available to the public this one is too quick 
+CB: fast_dev_1
+User: Fair enough but what about side effects 
+CB: short_term_1
+User: I don’t trust it 
+CB: default_1
+User: That’s fair but I won’t be taking it
+CB: default_2
+User: So they should only vaccine the high risk groups 
+CB: default_3
+User: You don’t know that 

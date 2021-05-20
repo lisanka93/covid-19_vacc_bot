@@ -1,0 +1,9 @@
+User: Because there’s not enough data on how it will affect fertility 
+CB: default_1
+User: Having children is important to me
+CB: default_2
+User: If there turns out that the vaccine makes people infertile then there will be bigger problems to worry about
+CB: short_term_1
+User: That’s got nothing to do with what I said
+CB: default_3
+User: That is a dangerous lie to tell. You can’t use a blanket statement like that as it’s not a cure all

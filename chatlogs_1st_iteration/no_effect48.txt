@@ -1,0 +1,13 @@
+User: I do not think it is necessary for me to take the vaccine.
+CB: default_1
+User: That is not true. I can go back to normal life right now, in fact, I already have.
+CB: default_2
+User: Even if it is the ONLY safe way to create herd immunity against COVID-19, based off the data that we have about COVID-19, the vast majority of people only get mild symptoms and recover. Effectively doing the same thing as the vaccine.
+CB: default_3
+User: That is not true. Even if I got the vaccine, I would still have to do other things such as eat healthy  and exercise among other things to stay healthy.
+CB: young_1
+User: As does every other virus on earth. We don't vaccinate for chicken pox, yet almost everyone gets it and could potentially get shingles. 
+CB: mutation_1
+User: (this chatbot sucks at arguing because the responses aren't addressing what I'm saying).. Whether the vaccine works or not, I do not want to get it because I do not think it is necessary for me as a young and healthy individual to get the vaccine.
+CB: young_2
+User: (I take back what I said lol) There are always exceptions to the rule. Here in Canada it's something like 90% of the people dying from COVID-19 are above the age of 70. That's saying a lot considering that the majority of people getting sick are under 70. Children are seemingly off the radar of this virus as well. It's really just a spicy flu, and people who want the vaccine should feel empowered to get it and those that don't want it, shouldn't have to or be shamed for not doing it.

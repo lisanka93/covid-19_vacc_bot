@@ -1,0 +1,9 @@
+User: because others deserve it more
+CB: default_1
+User: only if the vaccine works
+CB: default_2
+User: i might be allergic to vaccine
+CB: default_3
+User: i'd worry if it made me ill
+CB: fast_dev_1
+User: might get covid from the vaccine

@@ -1,0 +1,15 @@
+User: I don’t know what it’s going to do
+CB: default_1
+User: Yeah I understand but I’m healthy so should be fine not to have it
+CB: young_1
+User: Fair enough but I have never had the flu jab 
+CB: flu_1
+User: It’s not something the government has said that you have to have 
+CB: default_2
+User: It hasn’t been around long enough to know it’s safe 
+CB: long_term_1
+User: And also some people have become very ill after having the vaccine
+CB: default_3
+User: But some people have had bad side effects after taking the vaccine
+CB: short_term_1
+User: I don’t want to follow the crowd and be a sheep

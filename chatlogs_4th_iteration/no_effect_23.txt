@@ -1,0 +1,13 @@
+User: I just don’t trust it 
+CB: safety_1
+User: That’s fine but I still don’t trust it and the speed it was produced in 
+CB: fast_dev_1
+User: Because I don’t trust it 
+CB: safety_2
+User: That’s fine but I’m not dead yet 
+CB: default_1
+User: We will either way 
+CB: default_2
+User: Because not everyone gets it and they’re still fine 
+CB: default_3
+User: I won’t get it and you won’t change my mind 

@@ -1,0 +1,7 @@
+User: Given all the mutations that are being found I am not sure how effective it is
+CB: default_1
+User: But how do we know it will be effective on all the new mutations
+CB: default_2
+User: because you havent told me about the potential inefficiency of the vaccine due to mutations
+CB: default_3
+User: ok

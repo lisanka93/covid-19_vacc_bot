@@ -1,0 +1,13 @@
+User: safety concerns
+CB: safety_1
+User: i do believe that but vaccines usually take years to develope to ensure their long term safety
+CB: long_term_1
+User: maybe I already had covid
+CB: had_covid_1
+User: you got me there
+CB: default_1
+User: yea true
+CB: default_2
+User: i dont believe that, I believe covid will stick around for a while
+CB: default_3
+User: haha I will still worry about my and my family's health

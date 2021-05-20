@@ -1,0 +1,9 @@
+User: Currently TTC and dont trust the vaccine
+CB: default_1
+User: Thats true
+CB: default_2
+User: No it doesnt stop us from getting covid
+CB: get_covid_1
+User: Yes but no1 really knows whats in the vaccine 
+CB: default_3
+User: Not true. I worry more that our vulnerable family have already taken it

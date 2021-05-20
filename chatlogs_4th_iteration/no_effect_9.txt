@@ -1,0 +1,21 @@
+User: Because I don't trust it and I do not need one since I'm healthy and young 
+CB: young_1
+User: I don't believe the virus is dangerous due to the low fatality rate 
+CB: default_1
+User: That just sounds like a forced act. Where we just take a vaccine blindly and everything goes to normal. It seems very pushed on us and is suspicious 
+CB: default_2
+User: It is my choice to have the virus 
+CB: mutation_1
+User: I doubt I will ever get the virus so I Dont need the vaccine 
+CB: default_3
+User: I do not find the virus dangerous since my immune system is strong 
+CB: young_2
+User: My immune system is strong 
+CB: young_3
+User: The vaccine is rushed too fast 
+CB: fast_dev_1
+User: Because we don't know the side effects of the vaccine yet 
+CB: short_term_1
+User: I am hygienic and would not contract the virus 
+CB: mutation_2
+User: The virus has low chance of death so I am not scared of the virus 

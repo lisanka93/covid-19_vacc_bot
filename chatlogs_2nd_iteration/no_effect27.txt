@@ -1,0 +1,13 @@
+User: im not sure the vaccine is safe
+CB: safety_1
+User: it was developed too quickly
+CB: default_1
+User: COVID-19 has a 99% survival rate
+CB: default_2
+User: the government lies about the safety of the vaccine 
+CB: safety_2
+User: COVID-19 is caused by 5G cell towers
+CB: default_3
+User: they suck
+END
+User: quit

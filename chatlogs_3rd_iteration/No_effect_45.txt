@@ -1,0 +1,11 @@
+User: because it was developed so fast, because of the misinformation everywhere, I just dont want to risk taking it
+CB: default_1
+User: i really doubt that
+CB: default_2
+User: I honestly stopped caring about others. noone cares about us either
+CB: default_3
+User: that is not true! I would be super worried about long term consequences of the vaccine
+CB: long_term_1
+User: but the long term side effects of the vaccine might be worse than long covid
+CB: long_term_2
+User: I am sure some things were covered up in the past. now there is way more transparency and media coverage

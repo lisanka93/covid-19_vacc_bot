@@ -1,0 +1,7 @@
+User: It is not a highly infectious deadly virus
+CB: default_1
+User: Vaccines are not needed to achieve herd immunity.
+CB: default_2
+User: Allowing the virus to spread without a vaccine would also create herd immunity.
+CB: default_3
+User: I don't have to worry about my health anyway.

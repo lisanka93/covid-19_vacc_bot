@@ -1,0 +1,13 @@
+User: my grandfather died from the vaccine
+CB: death_1
+User: I am not so sure about that
+CB: default_1
+User: I am still not convinced about its safety
+CB: safety_1
+User: ok
+CB: default_2
+User: but you can still get and transmit covid I have read
+CB: get_covid_1
+User: hm ok
+CB: default_3
+User: because there is just so much information about it and I don't know what to trust

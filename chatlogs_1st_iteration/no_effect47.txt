@@ -1,0 +1,7 @@
+User: Current jabs don't stop people getting or transmitting the virus, but people are not getting that message. If they think they are immune, they will go back to normal life and the spread will make 2020 look like a stroll in the park.
+CB: default_1
+User: It doesn't provide immunity.
+CB: default_2
+User: The current treatments are just that - treatments. They aren't vaccines, they don't provide immunity and they won't stop the spread. They will accellerate it.
+CB: default_3
+User: A packet of cough sweets doesn't stop people getting flu, it only helps with the symptoms. These so-called vaccines are no different.

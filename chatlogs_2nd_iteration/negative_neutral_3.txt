@@ -1,0 +1,19 @@
+User: I don’t think it’s safe
+CB: safety_1
+User: But we are still not sure about the long term effects
+CB: long_term_1
+User: But what if in a few years serious side effects emerge?
+CB: short_term_1
+User: Is it safe for children?
+CB: safety_2
+User: How can people die from it?
+CB: death_1
+User: The vaccine was made too quickly in my opinion
+CB: fast_dev_1
+User: But what if companies manipulated steps to get out first?
+CB: default_1
+User: Covid seems to be going anyways
+CB: default_2
+User: What if herd immunity doesn’t work?
+CB: default_3
+User: People are still scared. 

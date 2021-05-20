@@ -1,0 +1,15 @@
+User: It is a fly the night vaccine that is truly approved by FDA...it got emergency approval
+CB: default_1
+User: It has been proven that masks really don't help
+CB: default_2
+User: How is this vaccine safe?
+CB: safety_1
+User: Once again it only got emergency approval....where are the long term affect data
+CB: long_term_1
+User: This virus has a 99.9% survival rate
+CB: survival_rate_1
+User: Tell me did the flu just disappear this year
+CB: flu_1
+User: Hospitals are recording false numbers just to get the federal money
+CB: default_3
+User: How do you not have to worry about your health...  People die from the flu every year

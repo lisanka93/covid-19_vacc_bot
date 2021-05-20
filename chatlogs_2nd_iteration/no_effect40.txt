@@ -1,0 +1,9 @@
+User: its farely new, it also contains substances such as mercury 
+CB: default_1
+User: there are already 3+ varient with most of them being immune to the original vaccine. how can i know that thsi vaccine wont cause the next mutations to be immune to future vaccines
+CB: default_2
+User: are you taking the mutations to note?
+CB: default_3
+User: i will have to worry if it mutates
+END
+User: quit

@@ -1,0 +1,15 @@
+User: the development has been super rushed
+CB: fast_dev_1
+User: maybe but I'd rather not inject something into my body that has been so fast developed
+CB: default_1
+User: mhm
+CB: default_2
+User: not so sure if you can call it safe if it can cause all sorts of long term side effects like infertility
+CB: long_term_1
+User: id rather recover from long covid than sacrifice my fertility
+CB: long_term_2
+User: but no vaccine has ever been developed to fast in the past either
+CB: default_3
+User: I would still be worried about potential long term effects
+CB: long_term_3
+User: because how can you not know whether it can affect fertility?

@@ -1,0 +1,7 @@
+User: Because it won't protect me from getting covid and it won't protect my relatives from getting it from me
+CB: default_1
+User: But you won't get immunity after vaccine. You can still get covid. 
+CB: default_2
+User: No it won't. You still can get covid after vaccine. 
+CB: default_3
+User: Of course I will worry. No one knows what's in this vaccine. Why companies making them not taking any responsibility if anything happens? 

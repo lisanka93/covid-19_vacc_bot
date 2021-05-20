@@ -1,0 +1,17 @@
+User: I'm concerned about the possible side effects due to the vaccine being developed in such a short period of time with multiple pharmaceutical companies competing with profits likely in mind.
+CB: short_term_1
+User: I'm more fearful of long-term side effects to be honest as these may have life altering consequences
+CB: long_term_1
+User: The percentage of people suffering from long covid is low though and I find your argument not particularly convincing 
+CB: long_term_2
+User: But the covid-19 vaccine uses a different method not involving an active component, RNA, which also raises questions about further health risks 
+CB: default_1
+User: Yes I have considered this however your argument does not consider the fact that even if vaccinations are rolled out they will need to be consistently provided on an annual basis with social distancing measures likely to remain in place regardless of high vaccine uptake 
+CB: default_2
+User: But your argument does not consider new variants of the virus, of which there are currently 4000 or so recorded, which at any moment could evolve to a point in which current vaccines are rendered ineffective as a single variant could bypass the immune system
+CB: mutation_1
+User: But there has been a variant recently discovered in samples which could potentially bypass the immune system entirely rendering vaccines useless
+CB: mutation_2
+User: However the WHO is making that assessment based on covid-19 being a naturally occurring virus which weakens with time and more evidence emerges each day that it came from the wuhan lab and has been engineered to become more lethal as it mutates
+CB: default_3
+User: With or without a global pandemic there is never a time in which one should not worry about their health

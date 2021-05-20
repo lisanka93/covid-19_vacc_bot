@@ -1,0 +1,9 @@
+User: Im scared
+CB: default_1
+User: What if the vaccine is dangerous?
+CB: default_2
+User: I dont't care 
+CB: default_3
+User: because we are sitting at home and are unlikely to catch the virus
+CB: mutation_1
+User: that doesnt really answer my argument

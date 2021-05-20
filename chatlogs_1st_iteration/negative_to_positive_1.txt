@@ -1,0 +1,11 @@
+User: I am concerned about its reliability
+CB: default_1
+User: Yes but that is an "if", meaning that it is not the only possible outcome. There could be negative outcomes
+CB: short_term_1
+User: But what if I experience an unexpected side effect
+CB: short_term_2
+User: The vaccine may not be effective for me
+CB: default_2
+User: I could be a person with an allergy to the vaccine that occurs after taking it
+CB: default_3
+User: That could cause me to come careless with my health by assuming immunity. I may not be successful in immunity

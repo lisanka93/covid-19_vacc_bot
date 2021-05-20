@@ -1,4 +1,4 @@
-make
+
 btw
 a
 as
@@ -86,13 +86,12 @@ cmon
 cmon
 cs
 came
-can
+
 cant
 cant
 cannot
 cant
-cause
-causes
+
 certain
 certainly
 changes
@@ -105,9 +104,7 @@ concerning
 consequently
 consider
 considering
-contain
-containing
-contains
+
 corresponding
 could
 couldnt
@@ -180,11 +177,7 @@ from
 further
 furthermore
 g
-get
-gets
-getting
-given
-gives
+
 go
 goes
 going
@@ -231,8 +224,7 @@ however
 i
 id
 id
-ill
-ill
+
 im
 ive
 ive
@@ -315,7 +307,7 @@ namely
 nd
 near
 nearly
-necessary
+
 need
 needs
 neither
@@ -411,8 +403,7 @@ self
 selves
 sensible
 sent
-serious
-seriously
+
 seven
 several
 shall

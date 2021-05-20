@@ -1,0 +1,9 @@
+User: Because I don't trust the vaccine/vaccines for numerous reasons 
+CB: default_1
+User: Yes I understand but I don't want to put something in my body which I don't trust 
+CB: default_2
+User: You say it is the only way but there are so many experts who are being kicked off social media platforms telling people to not take the vaccine and I believe these people 
+CB: default_3
+User: I am not getting the vaccine or anything bill Gates has anything to do with because he has gone on record as saying he wants to depopulate the human race and this vaccine hoax is a way the elites can do this
+CB: get_covid_1
+User: No not true. The main stream media are not being truthful about covid or the vaccines. I have done alot of research about alot of things going on in the world and the media are part of the corruption 

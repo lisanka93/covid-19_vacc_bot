@@ -1,0 +1,13 @@
+User: It all happened so fast
+CB: default_1
+User: true but given how fast the vaccine was developed I am not sure what to think of it
+CB: fast_dev_1
+User: that actually makes sense
+CB: default_2
+User: But even if the vaccine is effective in the short term, what if it causes health complications in the future
+CB: default_3
+User: I will worry about potential long term effects!
+CB: long_term_1
+User: I have heard of long covid but dont know anyone who had it
+CB: long_term_2
+User: so the vaccine does not contain an active ingredient? I need to research how it works then

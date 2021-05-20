@@ -1,0 +1,9 @@
+User: I feel no need to take the vaccine. I do not leave the house very often and don't feel I am risk
+CB: default_1
+User: Yeah, and I will be in the minoriry of unvaccinated people 
+CB: death_1
+User: I know
+CB: default_2
+User: If there is herd immunity I am unlikely to get the desease
+CB: default_3
+User: My family and friends will get it, I don't feel the need to 

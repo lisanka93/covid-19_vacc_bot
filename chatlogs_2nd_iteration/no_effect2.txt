@@ -1,0 +1,13 @@
+User: because of side effects
+CB: short_term_1
+User: exactly, this vaccine was very short development
+CB: default_1
+User: probably that's what will happen. Lot's of people will vaccine just because they need to travel for work
+CB: default_2
+User: Yes I have considered it, maybe you are right
+CB: default_3
+User: I disagree at this point, because vaccination doesn't mean you will never get infected, plus we don't know about side effects as well. i am especially worried about my parents and elderly people
+CB: short_term_2
+User: what about long term side effects?
+CB: long_term_1
+User: That is why it is hard to decide to vaccinate or not

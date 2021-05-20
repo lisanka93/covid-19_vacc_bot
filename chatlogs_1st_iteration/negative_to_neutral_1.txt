@@ -1,0 +1,11 @@
+User: I will consider its safety and effectiveness (how well it works) in people. It seems still not mature yet.
+CB: safety_1
+User: I think if I protect myself very well, I do not need to take it. However, so far taking a COVID-19 vaccine is a big risk.
+CB: default_1
+User: I know. I am looing forward to go back to normal life too. But people are normally afraid to unknown.
+CB: default_2
+User: If it is very effective and safe, I think I will consider taking it. So I may observe for some while first.
+CB: safety_2
+User: ok , I know the government has put great effort to monitor its process and effectiveness before releasing to the public.
+CB: default_3
+User: ok, once I get the vaccine, I believe my family will be willing to get it.

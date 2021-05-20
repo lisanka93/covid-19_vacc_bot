@@ -1,0 +1,11 @@
+User: I don't think I am in an at risk group and I would rather the vaccines be used on people who need them
+CB: default_1
+User: True but I am young and healthy and I don't think I will need the vaccine
+CB: young_1
+User: How effective is the vaccination for young people
+CB: default_2
+User: Why will some people not get the vaccine?
+CB: default_3
+User: But the vaccine doesn't make it 100% certain you won't get the virus
+CB: get_covid_1
+User: How less likely?

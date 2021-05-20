@@ -1,0 +1,7 @@
+User: I dont feel like i need it, covid has an aboce 95% survival rate. I would rather other people with compromised immune systems get it first
+CB: default_1
+User: I agree, and that's why a lot of other people should get vaccinated. people wth compromised immune systems and older people
+CB: default_2
+User: i mean with a virus that has a 95% survival rate. we would achieved that regardless but yes this is a safer way. people getting the virus can make them immune
+CB: default_3
+User: the vaccine also has a percentage of getting me sick or my body not reacting to it properly. so tomatoes, tomata

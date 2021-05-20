@@ -1,0 +1,7 @@
+User: I am not keen on recieving any vaccines medications unless there is a very good reason
+CB: default_1
+User: Yes but I think there are too many unanswered questions about the vaccines eg can you still pass virus on
+CB: default_2
+User: If herd immunity works why are we not already seeing the benefit because in the last year a lot of people have had covid
+CB: default_3
+User: I am happy for all my family to have the vaccine if they want to, by me having the vaccine it doesnt mean that I wont have to worry about my health

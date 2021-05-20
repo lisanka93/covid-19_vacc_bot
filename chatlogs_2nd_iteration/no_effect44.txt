@@ -1,0 +1,7 @@
+User: alien dna
+CB: default_1
+User: what about the alien dna in the vaccine
+CB: default_2
+User: your not talking about the alien dna
+CB: default_3
+User: why the same message again and again dumb robot

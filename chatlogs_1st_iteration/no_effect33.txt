@@ -1,0 +1,11 @@
+User: Because I am only 19 and don’t want to be something in my body that I don’t have to 
+CB: default_1
+User: But the likelihood of me being effected by the virus in a fatal way is very slim
+CB: mutation_1
+User: I know 
+CB: default_2
+User: But it has already been said that if you have the vaccine you can still spread it 
+CB: default_3
+User: I am not worried about my health right now as I am healthy and I will only be effected by the virus in a small way like a cold or flu
+CB: young_1
+User: Video voted

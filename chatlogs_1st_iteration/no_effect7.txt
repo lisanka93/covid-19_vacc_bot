@@ -1,0 +1,7 @@
+User: There is not enough research on whether it affects fertility 
+CB: default_1
+User: yes but if it affects fertility how will more people create families?
+CB: default_2
+User: But is there enough evidence to prove it will not make people ill especially with most individuals having a 99.9% survivor rate when getting coronavirus?
+CB: default_3
+User: You may still have to worry about your health as it has taken less than a year to approve this vaccine

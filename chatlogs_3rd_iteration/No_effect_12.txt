@@ -1,0 +1,13 @@
+User: Because I do not know what it is made out of, and what the side effects are
+CB: short_term_1
+User: Not thank you, not convinced I'm not risking my health being injected. Will take my chances with covid 
+CB: young_1
+User: No. Don't want to watch, I have a choice therefore Im not taking it.
+CB: default_1
+User: Herd immunity! Covid will always be around I will meet with friends regardless  
+CB: default_2
+User: No it is not the only safe way, not everyone needs it! Therefore it is a choice.
+CB: safety_1
+User: Don't care! Will not put poison in my body, it has been over a year and I think I have already had it 
+CB: default_3
+User: I don't convince my friends and family because they feel the same and I don't worry about it.

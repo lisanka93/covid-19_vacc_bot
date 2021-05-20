@@ -1,0 +1,9 @@
+User: By body react poorly to medication. I get very sick. 
+CB: default_1
+User: I do not want to be sick due to vaccine
+CB: default_2
+User: I understand but I do not want to be sick so that everyone else can be healthy. 
+CB: young_1
+User: ok
+CB: default_3
+User: My family can make their own decisions as adults. I will make my own. 

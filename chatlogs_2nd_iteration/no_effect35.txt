@@ -1,0 +1,17 @@
+User: i'm waiting for research on the long term effects of the vaccine and the effectiveness between variants
+CB: long_term_1
+User: but if i'm just being at home why would I need the vaccine?
+CB: default_1
+User: but will it work against different variants?
+CB: mutation_1
+User: which vaccine do we know is the most effective
+CB: default_2
+User: i don't trust the vaccine as it was approved too quickly
+CB: fast_dev_1
+User: where are the results from these trials?
+CB: default_3
+User: but there are side effects to the vaccine
+CB: short_term_1
+User: allergic reaction to the vaccination has not been ruled out
+CB: short_term_2
+User: but i could also get covid but only mild symptoms 

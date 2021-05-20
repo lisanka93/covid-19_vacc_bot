@@ -1,0 +1,7 @@
+User: I'm not against vaccines I just don't take medicines I don't feel I need.
+CB: default_1
+User: In which case it wouldn't be worth me taking the vaccine anyway
+CB: default_2
+User: I know that, but I'm in good health for my age
+CB: default_3
+User: I don't worry about my health, and why am I in a position if persuade family and friends if I'm not taking it myself?

@@ -1,0 +1,12 @@
+User: Because I had Covid, I had very little symptoms and recovered fine.
+CB: default_1
+User: I still stand by the fact my body fought the virus fine
+CB: default_2
+User: The vaccine doesn’t stop anyone getting it
+CB: get_covid_1
+User: That isn’t the same answer as before 
+CB: safety_1
+User: *prolific ID*
+
+CB: default_3
+User: I didn’t worry about it at the time, during or after as I wasn’t i’ll with Covid 

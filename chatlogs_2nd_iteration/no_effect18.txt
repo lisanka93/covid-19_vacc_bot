@@ -1,0 +1,11 @@
+User: Future problems 
+CB: short_term_1
+User: Scary
+CB: default_1
+User: True but we could die
+CB: default_2
+User: It could cause problems in years time
+CB: default_3
+User: I know but it’s not been tested for long
+CB: long_term_1
+User: I don’t know

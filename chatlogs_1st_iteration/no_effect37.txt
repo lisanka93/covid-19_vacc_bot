@@ -1,0 +1,15 @@
+User: well you see just because we know the short-term side effects we don't know the long-term side effects
+CB: long_term_1
+User: just because we know the ingredients doesn't make it any less possible to have adverse long-term side effects
+CB: long_term_2
+User: then how was it made if it wasn't made using the actual active component of COVID-19. There are already mutations to the original virus! let me guess the vaccine protects me from those too!
+CB: default_1
+User: i don't have friends nor do i go out that's invalid the vaccine could be poison
+CB: default_2
+User: herd immunity, i feel like this is population control which is the complete opposite. what if a side-effect would cause sterility and infertility
+CB: short_term_1
+User: usually, so what you're saying is they haven't been as vigorous in testing this vaccine as they should be and therefore i shouldn't get the vaccine.
+CB: safety_1
+User: they don't care if things were skipped, they don't care if we live or die. They get paid regardless.
+CB: default_3
+User: assuming that i even have a family that is, which i don't. the people i care about are no longer present and this virus is going to do it's job and eliminate more of the world population. it's not a bad thing all things considered

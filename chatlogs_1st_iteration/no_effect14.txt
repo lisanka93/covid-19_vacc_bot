@@ -1,0 +1,9 @@
+User: As it won’t make me immune to having covid
+CB: young_1
+User: I’ve already contracted covid and developed immunity to it.
+CB: default_1
+User: I have considered this, but since many people have contracted it and would’ve gained immunity from it
+CB: default_2
+User: There are more harmful and detrimental illnesses which cause more deaths and more hospitalisation than covid, but these extreme measures are not taken
+CB: default_3
+User: You haven’t answered my argument

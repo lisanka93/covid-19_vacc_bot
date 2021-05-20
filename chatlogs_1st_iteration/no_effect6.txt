@@ -1,0 +1,15 @@
+User: I have my own thoughts
+CB: default_1
+User: No, risk is higher with low tested vac
+CB: safety_1
+User: It is only tested for 1yr
+CB: safety_2
+User: Sample of tests are limited
+CB: safety_3
+User: In compared, risks is lower if I self isolate
+CB: default_2
+User: There are people vaccinated still get infected
+CB: default_3
+User: We don't even know how long it lasts
+CB: long_term_1
+User: We do not know at what point the vaccine stops working

@@ -1,0 +1,13 @@
+User: I can still pass on COVID to someone else
+CB: get_covid_1
+User: The way they have handled the pandemic is very troubling and it seems uncoordinated also it appears that they want a quick solution not well thought out
+CB: fast_dev_1
+User: I can get very sick from the vaccine
+CB: default_1
+User: I could die
+CB: death_1
+User: There are so many different brands of vaccine which one is best and one may be better than the other
+CB: default_2
+User: There are too many vaccines
+CB: default_3
+User: All vaccines are for profit

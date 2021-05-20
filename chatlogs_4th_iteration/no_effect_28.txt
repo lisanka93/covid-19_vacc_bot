@@ -1,0 +1,9 @@
+User: Dont yryst any vaccines at all mosy contain toxic ingredients
+CB: default_1
+User: I do not trust the vaccines hace heard many of them contain mecury
+CB: default_2
+User: Have also heard on the news that a few people have dird vecuse of the vaccine and that their deaths are currentlu under investigation 
+CB: default_3
+User: Thete ate still other viruses out there you cannot vaccinate anything
+CB: get_covid_1
+User: I do not go out much anyways so my chances of getting the virus is quite small

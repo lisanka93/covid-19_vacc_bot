@@ -1,0 +1,15 @@
+User: It's too soon, unknown side effects and unknown how long it's effective for
+CB: long_term_1
+User: I prefer my chances against Covid 19, I am young and healthy
+CB: young_1
+User: What about side effects
+CB: short_term_1
+User: The vaccine came too quickly, side effects may show in two years
+CB: short_term_2
+User: What about the vaccine side effects
+CB: default_1
+User: I don't believe that to be true
+CB: default_2
+User: The vaccine just reduces your chances, doesn't stop you getting it
+CB: default_3
+User: You can still get covid with the vaccine

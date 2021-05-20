@@ -1,0 +1,15 @@
+User: I am not sure it is safe, it was made too quickly
+CB: fast_dev_1
+User: yes i have heard this before but i am still not convinced - what if there are long term side effects that have not yet been discovered ? 
+CB: long_term_1
+User: True 
+CB: default_1
+User: why would there be herd immunity if not everyone is vaccinated 
+CB: default_2
+User: i am 21 and i do not know if or when the virus will be available to me - i will not be immune 
+CB: default_3
+User: how do you know how long the vaccine works for ?
+CB: long_term_2
+User: what if the virus mutates faster than the vaccine can cover it
+CB: mutation_1
+User: i see

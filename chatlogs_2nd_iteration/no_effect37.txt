@@ -1,0 +1,11 @@
+User: I will refuse the vaccine until there are viable studies that prove it effectively protects against all variants. It is just not effective enough right now
+CB: default_1
+User: I have but with the current 1 dose it just does not offer enough protection. Vulnerable people can get vaccinated. I'll pass for now. 
+CB: get_covid_1
+User: However, the vaccine doesn't offer the protection for long enough for the herd community to fully develop on a long term basis
+CB: long_term_1
+User: What about potential allergic reactions or the vaccine simply being ineffective enough? it doesn't seem like benefits after just 1 dose outweigh the potential risks.
+CB: default_2
+User: There isn't enough scientific proof to guarantee the vaccine's effectiveness in developing a fully rounded herd immunity
+CB: default_3
+User: The vaccine's success percentage is not high enough to completely dismiss worrying about health.

@@ -1,0 +1,9 @@
+User: I believe that we should all have the right to medical freedom.
+CB: default_1
+User: I still believe that we should all have a choice.
+CB: default_2
+User: I don't believe that the virus is as serious as the government make it out to be.
+CB: default_3
+User: I don't worry about my health anyway. I am a healthy person with a healthy lifestyle.
+CB: young_1
+User: I am not bothered, I would rather take my chances, and we should all be entitled to medical freedom and the right to choose.

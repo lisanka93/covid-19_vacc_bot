@@ -1,0 +1,11 @@
+User: i am worried it might be detrimental to my health
+CB: default_1
+User: but i heard rumours it contained aborted fetuses
+CB: default_2
+User: what if i die from the vaccene
+CB: default_3
+User: not really, since the virus can evolve and mutate so theoretically i could still get a strain of the virus even after taking the vaccine
+CB: mutation_1
+User: the vaccine moved way too quickly through the testing trials, so i don't think it has had long enough to become tested and safe
+CB: safety_1
+User: i heard the vaccine works with mrna, meaning genetically modified deoxyribonuclaic acid, and as far as i know, the implications of mrna aren't fully understood

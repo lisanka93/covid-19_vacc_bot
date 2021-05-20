@@ -1,0 +1,13 @@
+User: Because it has not been researched long enough.
+CB: long_term_1
+User: No thanks. I wont risk that in my body. I have no underlying health conditions and would rather build up my immune system
+CB: young_1
+User: Fear fear fear. It kills 0.1% of people
+CB: default_1
+User: My body my choice. Ive never stopped living. Fact.
+CB: default_2
+User: I will not have a unsafe vaccine in me. More control by the evil government. No .
+CB: default_3
+User: I have no underlying health conditions. Im a healthy
+CB: young_2
+User: I had it and it was so mild. 

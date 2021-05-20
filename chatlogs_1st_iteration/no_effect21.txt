@@ -1,0 +1,9 @@
+User: Because it does not 100% prevent me from catching covid
+CB: default_1
+User: Heard immunity isn’t complete immunity 
+CB: default_2
+User: I do not think it is deemed safe yet
+CB: safety_1
+User: There is no efficient data to say how reliable it is
+CB: default_3
+User: I would rather it have actual proven results

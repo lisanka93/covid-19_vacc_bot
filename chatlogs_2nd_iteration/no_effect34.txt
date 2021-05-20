@@ -1,0 +1,7 @@
+User: i dont think there has been enough testing and i think as its not 100% effective the likelihood of catching covid 19 wont be reduced enough to be effective
+CB: default_1
+User: i dont think herd immunity will be effective in this case but i would love to meet friends and family
+CB: default_2
+User: unfortunaely it wont protect us all
+CB: default_3
+User: not true, until covid is erradicated there will always be a risk and reason to worry

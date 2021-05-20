@@ -1,0 +1,9 @@
+User: Effects not known over a long period of time
+CB: long_term_1
+User: Ok
+CB: default_1
+User: Ok
+CB: default_2
+User: Ok
+CB: default_3
+User: I won’t be convincing anyone either way

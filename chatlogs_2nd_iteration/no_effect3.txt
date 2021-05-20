@@ -1,0 +1,7 @@
+User: it is dangerous and causes cancer and changes your dna, also sleepie joe things it'll be good so you know it's bad
+CB: default_1
+User: we should just do that now
+CB: default_2
+User: just catch it to get heard immunity?
+CB: default_3
+User: i will because they'll get cancer =)

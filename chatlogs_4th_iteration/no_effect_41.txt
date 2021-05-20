@@ -1,0 +1,13 @@
+User: If it doesn’t stop me getting COVID, nor does it stop me spreading it. I don’t understand the benefit of having it. 
+CB: get_covid_1
+User: I’d rather let my immune system develop naturally
+CB: young_1
+User: Thank you but I’m equally likely to get hit by a bus 
+CB: default_1
+User: I’m happy to do that anyway. Flu kills thousands every year and we don’t do anything about it
+CB: flu_1
+User: Ok
+CB: default_2
+User: No. I believe we need to promoting better health and nutrition. Relying on technology to keep us alive in a natural world is dangerous. We need to work with nature, not fight it
+CB: default_3
+User: Only have to worry about cancer, suicide etc

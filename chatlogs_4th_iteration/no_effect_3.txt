@@ -1,0 +1,9 @@
+User: Long term risks 
+CB: long_term_1
+User: If most people recover from covid, the push to vaccinate everyone seems excessive 
+CB: default_1
+User: Most people recover fine
+CB: default_2
+User: There is no evidence it's stops the virus being carried or passed on
+CB: default_3
+User: Too many different vaccines available 

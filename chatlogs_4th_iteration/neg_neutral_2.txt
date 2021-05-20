@@ -1,0 +1,17 @@
+User: worried about side effects
+CB: short_term_1
+User: we dont know what will happen down the line
+CB: default_1
+User: that no reason to ignore side effects
+CB: short_term_2
+User: i mean long term side effects
+CB: long_term_1
+User: the vaccine was developed so fast, even with known ingredients long term side effects are possible
+CB: long_term_2
+User: but in the past vaccines were not developed as rushed
+CB: fast_dev_1
+User: i am still unsure
+CB: default_2
+User: i am not convinced by that. new strains are emerging all the time which can make the vaccine ineffective
+CB: default_3
+User: because I will still worry about my and my familys health

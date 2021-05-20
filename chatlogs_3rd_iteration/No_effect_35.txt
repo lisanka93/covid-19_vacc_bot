@@ -1,0 +1,11 @@
+User: I'm unsure about potential side effects
+CB: short_term_1
+User: I'm ill with an undiagnosed condition so I don't know how that would affect me if I got the vaccine
+CB: default_1
+User: I agree
+CB: default_2
+User: Yes
+CB: default_3
+User: I would still worry about my health due to my health condition
+END
+User: quit

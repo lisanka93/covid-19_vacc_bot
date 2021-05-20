@@ -1,0 +1,11 @@
+User: The vacine is extremely new and could have anything inside of it
+CB: default_1
+User: Yes but, there could be something in the vacine to kill us off slowly
+CB: default_2
+User: The vacine hasn't been around for long so we don't know whether it'll work
+CB: long_term_1
+User: There could be so many side effects that we don't know about
+CB: short_term_1
+User: There are so many different vacines why is there not just 1 vacine that makes you immune
+CB: default_3
+User: the vacine may be a lie though

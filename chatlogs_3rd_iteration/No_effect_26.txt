@@ -1,0 +1,15 @@
+User: I'm worried about the potential long-term side effects.
+CB: long_term_1
+User: The vaccine was rolled out very quickly in the grand scheme of things, so I don't believe scientists truly know what long-term effects could be.
+CB: long_term_2
+User: I never get the flu jab, so I don't feel I need a Covid Vaccine either.
+CB: flu_1
+User: I only get vaccinated when I need to travel abroad.
+CB: default_1
+User: It's a bit inconvenient to wait 12 weeks before getting another dose.
+CB: default_2
+User: I don't like being told what I do and do not have to do.
+CB: default_3
+User: It might not vaccinate me against new variants.
+CB: mutation_1
+User: I'm not worried about myself, but the potential for my children to have defects.

@@ -1,0 +1,11 @@
+User: Not enough research on the long term effects
+CB: long_term_1
+User: Exactly
+CB: default_1
+User: That's what they want you to think
+CB: default_2
+User: This is about control, not her immunity as the virus can still be spread
+CB: mutation_1
+User: Exactly so why are they vaccinating the masses without knowing the full story
+CB: default_3
+User: That's a load of rubbish

@@ -1,0 +1,21 @@
+User: Because the effects of long term havent been proven
+CB: long_term_1
+User: yes thats true on both cases, but why should i trust whatever the people making the vaccine to have the best interest in it for me in the long run when i personally dont know the materials used in the vaccine, so to me the effects of covid 19 could just be the effects of a flu and be done and over with, when the effects of a vaccine could be long term worse in 10 years or whatever like that. the vaccines i have taken before such as the flu vaccines; ended up making me more sick for a short time then the flu would of normally.
+CB: long_term_2
+User: that still doesnt tell me how its going to effect me 
+CB: short_term_1
+User: but how do i know what even the symptoms of covid 19 will be for me as they are different for everyone including some being asymptomatic 
+CB: default_1
+User: I have reasonable doubt that normal life will ever be the same as it once was.
+CB: default_2
+User: but saying its safe doesnt 100% make it safe. lots of things in the past have had issues we never calculated.
+CB: safety_1
+User: That may be true but how do we know whats going to go further into the vaccine, especially if its like the flu and going to just mutate further as there are already other variants some that are more resilient to vaccines
+CB: mutation_1
+User: 99 percent, so far its still only barely new, again what happens to our kids or further down the line with these variants how can we be sure to something that we can hardly predict
+CB: default_3
+User: wont have to worry about it for now, though but how long is that really gunna last, could be tomorrow a new one that pops up and isnt just as easily treatable
+CB: long_term_3
+User: the way i see it is a 50/50 toss up youre stuck regardless of you getting the vaccine or not getting the vaccine the only surefire way to fully stop the spread is not be exposed, and how is that even possible when people dont even follow the rules as it is.
+CB: get_covid_1
+User: Its not a problem until it is a problem

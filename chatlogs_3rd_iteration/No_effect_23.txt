@@ -1,0 +1,17 @@
+User: I don’t trust it
+CB: safety_1
+User: It’s been developed in a year. I don’t want to inject something without years of research backing up my safety
+CB: fast_dev_1
+User: Because it’s sped up, they’re skipping the safety precautions and just rushing it out as soon as possible
+CB: safety_2
+User: There are hidden side effects that will emerge
+CB: short_term_1
+User: It’s fast developed and not tested enough. Why should I beta test it and risk my life?
+CB: safety_3
+User: Where is the evidence that says it is safe?
+CB: default_1
+User: You tell me
+CB: default_2
+User: There’s still not enough evidence to guarantee my safety if I take the vaccine
+CB: default_3
+User: But what if the vaccine harms me. I’d rather test my luck with COVID then develop a cancer later on because of the lack of testing

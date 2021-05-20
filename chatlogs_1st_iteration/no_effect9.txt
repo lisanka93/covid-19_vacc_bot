@@ -1,0 +1,27 @@
+User: The MRNA vaccine technology is new and there is relatively little information on the long-term effects.
+CB: long_term_1
+User: Problems from COVID-19 are likely for people with other health problems. It is not correct to suppose that averaging the effects of COVID-19 on anyone who was sick will directly apply to any one individual.
+CB: short_term_1
+User: Not everyone experiences COVID-19 symptoms to the same degree. It's possible that some people will not have severe unpleasant side-effects, especially if they are healthy.
+CB: short_term_2
+User: Side-effects from COVID-19 arise from the body's immune system response which means that the immune system works and is doing its job.
+CB: young_1
+User: We have only known about covid for a year. We do not have enough experience or knowledge to be able to make any long-term claims.
+CB: long_term_2
+User: You have made an anti-vaccination argument to argue for the COVID-19 vaccine.
+CB: fast_dev_1
+User: You are not responding to my arguments.
+CB: default_1
+User: This is an appeal to emotion.
+CB: default_2
+User: There are many ways to create herd immunity. The healthy people who are not at risk for severe COVID-19 symptoms can generate antibodies naturally.
+CB: young_2
+User: I am not suggesting that we can assume all young and healthy people will be safe from COVID, but I could make the same argument for vaccines. There have been cases of people, both young and healthy, taking the COVID-19 vaccine and dying. And we do not know the reason for this.
+CB: young_3
+User: The vaccine has not been proven to prevent covid or covid transmission. It has only been shown to reduce symptoms in those who are exposed.
+CB: default_3
+User: I would still worry because I do not know the long-term effects of the vaccine or if they will make me susceptible to some other issue.
+CB: long_term_3
+User: That is a statement of conjecture. There is no way to know if the long term side-effects are more likely than the long term side effects from the vaccine because not enough time has passed in order to make any long-term comparisons.
+CB: long_term_4
+User: mRNA is a new technology. There is no long history with this type of vaccine.

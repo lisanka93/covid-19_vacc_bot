@@ -1,0 +1,15 @@
+User: There hasn't been enough time to effectively test the vaccine and establish it's long-term effects on the human body. There have been a substantial amount of reported side effects which is very worrying. 
+CB: long_term_1
+User: There is no point in temporarily curing a virus just to have other issues in the future caused by the cure.
+CB: default_1
+User: Travel is not a priority, neither is meeting up with friends. Good health is. More time should be put in enforcing safe interactions in order to minimize mental health issues. Our children are the future and we need to insure that the decisions we make today works in their favor in the near future. 
+CB: default_2
+User: That is true, but a vaccine that hasn't been properly tested could be more dangerous than the virus itself.
+CB: safety_1
+User: Vaccines take years to create, this was rushed and therefore, the data collected cannot state what the long term effects are.
+CB: long_term_2
+User: So you agree that mistakes can happen? It doesn't matter how long ago these mistakes happened, it is still a risk. 
+CB: long_term_3
+User: That's is just your opinion. Injecting foreign substance into my body without full knowledge of what could happen is much scarier to me.
+CB: default_3
+User: I have, and my family and friend are free to make a decision that works best for them. Covid 19 is not a joke but neither is an 'unqualified' vaccine 

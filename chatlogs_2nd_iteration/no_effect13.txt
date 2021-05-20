@@ -1,0 +1,23 @@
+User: They have not been tested properly and proper research has not been done on them
+CB: safety_1
+User: It needs to be further investigated 
+CB: default_1
+User: Yes but we don’t know the side effects of the vaccine, whos to say the vaccine won’t bring worser causes?
+CB: short_term_1
+User: It hasn’t been around long enough to know whether or not there are any long term symptoms 
+CB: long_term_1
+User: If you do not know about any long term effects then why release the vaccine? Is that not just creating a bigger risk for everyone who takes the vaccine?
+CB: long_term_2
+User: The vaccine may not even last for that long, it’s still possible for people to catch covid after they’ve taken the vaccine
+CB: default_2
+User: It will not protect us forever though.
+CB: default_3
+User: The vaccine hasn’t been tested enough for anyone to say that I won’t have to worry about my health, it could have severe long term effects that have not yet been identified 
+CB: long_term_3
+User: Covid has been around for a while now so if there were any long term effects it would mainly be to do with the respiratory system as thats the area the virus attacks. 
+CB: long_term_4
+User: Yes but you can only assume, you are not 100% sure that the vaccine is correct
+CB: get_covid_1
+User: There might not be enough vaccinations to be given to everyone and everyone may not be able to afford to have a vaccine
+CB: fast_dev_1
+User: If the vaccine has been rushed then it has not been investigated properly. Scientists should be taking their time to look into the virus properly in order to develop one vaccine that will help not loads of other vaccines that all have different effects

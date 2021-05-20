@@ -1,0 +1,11 @@
+User: I don’t know what’s in it 
+CB: default_1
+User: But the vaccine wasn’t designed for the new strain of coronavirus  
+CB: default_2
+User: The vaccine had caused people I know to have side affects such as seizures
+CB: short_term_1
+User: Some of the side affects aren’t temporary though
+CB: short_term_2
+User: The government themselves are unsure weather the vaccine will work
+CB: default_3
+User: I have already had coronavirus so why would I get a jab protecting me from it 

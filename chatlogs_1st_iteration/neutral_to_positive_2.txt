@@ -1,0 +1,11 @@
+User: I am not sure how safe it is
+CB: safety_1
+User: Some people have complained about side effects that last a long time
+CB: long_term_1
+User: Ok
+CB: default_1
+User: I think so, but if every one else takes it i don't have too
+CB: default_2
+User: Allergy to sea foods
+CB: default_3
+User: That is true

@@ -1,0 +1,7 @@
+User: worried about the safety of vaccine 
+CB: default_1
+User: i understand but
+CB: default_2
+User: is it effective
+CB: default_3
+User: ok

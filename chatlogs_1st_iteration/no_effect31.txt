@@ -1,0 +1,9 @@
+User: It's hasn't been tested long enought.
+CB: long_term_1
+User: I think we still need more evidence that vacine doesn't have significant side effects.
+CB: short_term_1
+User: I would like to have a baby and I'm worried the vacinr will negative effect on my unborn child. 
+CB: short_term_2
+User: I'm not worried about short term effects.
+CB: default_1
+User: Quit

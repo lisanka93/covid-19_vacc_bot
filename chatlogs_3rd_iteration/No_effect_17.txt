@@ -1,0 +1,9 @@
+User: Don’t believe in vaccinations
+CB: default_1
+User: We should be doing that anyway
+CB: default_2
+User: Survival of the fittest
+CB: survival_rate_1
+User: I’m willing to take that risk
+CB: default_3
+User: We should always worry about our health. There are different variants occurring.

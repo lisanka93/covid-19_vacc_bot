@@ -1,0 +1,15 @@
+User: I don't know what is really in it
+CB: default_1
+User: True. But what are the short term and long term side effects.? 
+CB: long_term_1
+User: You could be right. But what if the long term e
+CB: long_term_2
+User: You could be right. You do make sense but what if the long term effect turns out to be deadly 
+CB: long_term_3
+User: We hope so.
+CB: default_2
+User: We hope so.how can u be so sure that this vaccine will stop us getting the virus again.? 
+CB: get_covid_1
+User: OK. Early signs are good then but it looks like only time will tell
+CB: default_3
+User: Sound good. But I will still wait till more and more people get it first before I get mine. If I do

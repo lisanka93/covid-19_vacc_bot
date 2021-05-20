@@ -1,0 +1,15 @@
+User: I'm afraid to it making me catch the covid 19 strain and I get ill and die
+CB: default_1
+User: But we do not have a vaccine for all strains of the virus
+CB: mutation_1
+User: What about the non UK version of the virus as those are deadly
+CB: default_2
+User: But you can still catch the virus after having the vaccine
+CB: get_covid_1
+User: But we don't know the side affects of the vaccine on future generations 
+CB: short_term_1
+User: But there is no data on the long term side affects of using the vaccine
+CB: long_term_1
+User: But do we know what it will do for the next generation 
+CB: default_3
+User: But you can still die from covid 19 after you have taken the vaccine

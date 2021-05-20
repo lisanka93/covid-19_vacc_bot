@@ -1,0 +1,10 @@
+User: scared it might affect me negatively
+CB: default_1
+User: i have considered it
+CB: default_2
+User: i am not doubting that, just worried about my personal health
+CB: young_1
+User: wow
+CB: default_3
+User: hmmm
+

@@ -1,0 +1,9 @@
+User: I am worried about the potential side-effects.
+CB: short_term_1
+User: That is another reason I don't want to, because of the expedited process to get the vaccine out as quick as possible and lack of proper testing. I don't trust it.
+CB: default_1
+User: I believe that herd immunity can be achieved without myself getting the vaccine and the potential negative risks that come along with it.
+CB: default_2
+User: Most people will get the vaccine so herd immunity will still be achievable. I am not in a high-risk group if I do get COVID so I am willing to risk it.
+CB: default_3
+User: I'm not worried, and I won't be convincing anyone to do anything. Everyone should educated themselves and make their own decisions.

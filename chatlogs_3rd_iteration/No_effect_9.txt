@@ -1,0 +1,9 @@
+User: will have side effects
+CB: short_term_1
+User: ok
+CB: default_1
+User: I understand that
+CB: default_2
+User: Yeah
+CB: default_3
+User: I disagree, I care and worry about my family

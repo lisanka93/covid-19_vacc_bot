@@ -1,0 +1,13 @@
+User: I am worried about its safety
+CB: default_1
+User: but what if it is unsafe
+CB: default_2
+User: it is not a safe way if the vaccine is not safe
+CB: safety_1
+User: there could be side effects down the line though
+CB: short_term_1
+User: have you considered long term effects?
+CB: long_term_1
+User: ok Ill have a watch
+CB: default_3
+User: I will still worry about my health if I inject something I am not sure it is safe into my body

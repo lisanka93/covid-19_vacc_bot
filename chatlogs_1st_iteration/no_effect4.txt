@@ -1,0 +1,15 @@
+User: Feel it may have been rushed somewhat
+CB: fast_dev_1
+User: ok
+CB: default_1
+User: yes, that's one of the reasons I will probably have it as I want to travel. Seems we hae no choice otherwise
+CB: default_2
+User: I also wonder about the allergy part of the vaccine. My son has an auto immune disease
+CB: young_1
+User: ok
+CB: default_3
+User: still feel like I am being pushed towards a vaccine. I have stayed home worn masks, washed hands managed to not get the virus yet
+CB: mutation_1
+User: so we get the vaccine, and there is a new variant of the virus that does not react to the vaccines
+END
+User: quit

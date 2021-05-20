@@ -1,0 +1,17 @@
+User: It may not be totally necessary for my age group
+CB: young_1
+User: I think i have already had it in the summer
+CB: default_1
+User: What about the constantly changing variants
+CB: mutation_1
+User: What if it is harmful
+CB: default_2
+User: The clinical trials dont seem to include the elderly
+CB: default_3
+User: What if the vaccine has been rushed 
+CB: fast_dev_1
+User: What about the adverse side effects 
+CB: short_term_1
+User: Some people have had serious side effects 
+CB: short_term_2
+User: What about the South African strain

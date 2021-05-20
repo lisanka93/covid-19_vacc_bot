@@ -1,0 +1,7 @@
+User: I don’t like putting things in my body 
+CB: default_1
+User: I don’t take paracetamol nethermind new vaccinations 
+CB: default_2
+User: I fear I’ll be the small minority who will
+CB: default_3
+User: I fear I’ll be a small minority who would be ill 

@@ -1,0 +1,13 @@
+User: because I am sceptical about the vaccine ingredients
+CB: default_1
+User: Sure, but what about the side effects?
+CB: short_term_1
+User: Eh, would rather not have one than manage the side effects
+CB: short_term_2
+User: I am also looking into getting pregnant by the end of this year, not definite yet, but thinking about it
+CB: default_2
+User: yeah, O'm not sure your one point addresses my concerns at all. Lol
+CB: default_3
+User: Well, I mean, the vaccine doesn't eradicate all illnesses
+CB: get_covid_1
+User: But that's just for coronavirus

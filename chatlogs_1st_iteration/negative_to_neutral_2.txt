@@ -1,0 +1,17 @@
+User: I’m not sure whether they’re safe to have
+CB: safety_1
+User: It seems too quick
+CB: fast_dev_1
+User: I fear safety had been compromised for speed
+CB: safety_2
+User: I understand all that, but there is no way of knowing any long term side effects
+CB: long_term_1
+User: It seems risky to have a vaccine which could lead to bigger problems down the line
+CB: default_1
+User: Until another variant arrives, then we’ll all be told we need another vaccine!!
+CB: mutation_1
+User: I would rather take my chances and not get vaccinated straight away, at least until a few months have passed
+CB: default_2
+User: Humanity has survived far worse pandemics in the past without the need for a vaccine
+CB: default_3
+User: COVID has a huge survival rate without vaccines anyway!

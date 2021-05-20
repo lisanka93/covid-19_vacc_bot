@@ -1,0 +1,9 @@
+User: Because I don’t know about the long term effects and I don’t want to sign my life away 
+CB: long_term_1
+User: Then how about the part about the contract where they make you sign saying you cannot sue them if something bad happens to you 
+CB: default_1
+User: I agree
+CB: default_2
+User: But we don’t know that for sure 
+CB: default_3
+User: But what if it still spreads after the vaccine 

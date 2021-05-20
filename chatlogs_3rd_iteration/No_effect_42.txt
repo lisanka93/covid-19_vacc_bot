@@ -1,0 +1,15 @@
+User: Heard it may have implications for fertility, not planning on starting a family soon but will do in the future 
+CB: fertility_1
+User: The vaccine hasn’t been going for long enough to know the effects 
+CB: long_term_1
+User: I tend not to watch anything like this
+CB: default_1
+User: The government has not said if you get the vaccine everything will return to normal
+CB: default_2
+User: I’ve been in contact with someone with the virus and it had no affect on me or my family members we didn’t know they had it until after
+CB: default_3
+User: COVID doesn’t bother me I’m not worried about my Heath 
+CB: get_covid_1
+User: That’s fair enough but for me I’m not worried about my health 
+CB: young_1
+User: Not interested in those types of things 

@@ -1,0 +1,19 @@
+User: I don't trust that it is safe just yet.
+CB: safety_1
+User: The vaccines have not been out long enough yet to see the long term effects.
+CB: long_term_1
+User: Some people have been dieing from the vaccine.
+CB: default_1
+User: I agree, however I  think the vaccine needs more time.
+CB: default_2
+User: I agree with herd immunity but if the vaccine causes long term side effects and everyone gets vaccinated we will have a much serious problem on our hands.
+CB: long_term_2
+User: A long time ago doesn't matter. We know nothing about this slickness.
+CB: long_term_3
+User: Because we have no long term testing of the covid vaccine.
+CB: long_term_4
+User: When more time goes by I  might consider the vaccine if others have favorable results 
+CB: default_3
+User: The vaccine may not have long lasting coverage 
+END
+User: Quit

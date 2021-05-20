@@ -1,0 +1,13 @@
+User: i only take the necessary vaccines. I also never take the flu shot
+CB: flu_1
+User: it is still a very low death rate
+CB: default_1
+User: i think one day we will all catch the virus anyway and it will become  a permanent thing
+CB: default_2
+User: i dont think enough people will vaccinate to protect those that cannot get the vaccine unless it becomes mandatory
+CB: get_covid_1
+User: that does not answer what Ive said
+CB: default_3
+User: I would because of the potential long term effects of the vaccine
+CB: long_term_1
+User: i hmm ok

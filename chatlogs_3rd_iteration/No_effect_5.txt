@@ -1,0 +1,11 @@
+User: It might be unsafe
+CB: default_1
+User: I understand, but it could have longterm effects on me.
+CB: short_term_1
+User: I'm not at risk of serious side effects from COVID-19
+CB: short_term_2
+User: The side effects could be potentially serious
+CB: default_2
+User: I don't think enough is known about the vaccine because it's very new
+CB: default_3
+User: The vaccine could be dangerous

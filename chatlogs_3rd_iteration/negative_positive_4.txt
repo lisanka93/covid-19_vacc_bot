@@ -1,0 +1,21 @@
+User: it might be dangerous
+CB: default_1
+User: yea but for how long if we all suffer long term health problems from it
+CB: long_term_1
+User: Id rather try to avoid catching covid and not getting vaccinated
+CB: get_covid_1
+User: I will try my best to not get it by wearing a mask and maintaining social distancing
+CB: default_2
+User: I really would rather just be careful than risk dieing from it
+CB: default_3
+User: given the potential side effects I would definitely still worry!
+CB: short_term_1
+User: but what about the long term ones?
+CB: long_term_2
+User: maybe. but the vaccine was developed so fast that I cant believe it is safe
+CB: safety_1
+User:  Ok so it might be safe for short term use but not long term use given how new it is
+CB: long_term_3
+User: touche. but covid has a super high survival rate
+CB: survival_rate_1
+User: that sounds pretty shit. but a vaccine might cause ever-lasting instead of long lasting side effects, no?

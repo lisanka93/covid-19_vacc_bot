@@ -1,0 +1,11 @@
+User: I am not against vaccines but this one seems a bit too rushed and I would rather wait a bit before I would consider getting it
+CB: fast_dev_1
+User: makes sense but given I am not in the risk group it will probably still take a while until I get it and more will be known by then
+CB: fast_dev_2
+User: that makes sense thanks
+CB: default_1
+User: very true I want that too
+CB: default_2
+User: I agree
+CB: default_3
+User: true 

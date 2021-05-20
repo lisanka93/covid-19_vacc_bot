@@ -1,0 +1,19 @@
+User: I do not want to take an untested vaccine
+CB: default_1
+User: this isn't a normal vaccine
+CB: safety_1
+User: but no long term effects have been tested
+CB: long_term_1
+User: ok
+CB: default_2
+User: no because it does not provide herd immunity 
+CB: default_3
+User: but you can still catch it?
+CB: get_covid_1
+User: no because you can still catch it and get ill
+CB: safety_2
+User: yet they are dying in huge numbers after getting the vaccine
+CB: death_1
+User: the evidence shows that elderly people in care homes are dying 
+CB: safety_3
+User: I disagree. There is evidence that people are dying after having the vaccine

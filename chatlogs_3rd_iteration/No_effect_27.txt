@@ -1,0 +1,13 @@
+User: doesnt seem safe
+CB: safety_1
+User: it was rushed
+CB: fast_dev_1
+User: doesnt work
+CB: default_1
+User: have to get 2 shots
+CB: flu_1
+User: the new strains
+CB: default_2
+User: could be alergic
+CB: default_3
+User: quit

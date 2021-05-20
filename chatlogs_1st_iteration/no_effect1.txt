@@ -1,0 +1,15 @@
+User: I am worried about the side effects
+CB: short_term_1
+User: I have a compromised immune system
+CB: young_1
+User: that did not address my point
+CB: default_1
+User: Because there is no date set for a return to normal life
+CB: safety_1
+User: Clinical trials have not been taken with people with my health conditions
+CB: default_2
+User: Prove to me that I will be safe with a vaccine
+CB: safety_2
+User: I am on immunosuppressants
+CB: default_3
+User: What total rubbish

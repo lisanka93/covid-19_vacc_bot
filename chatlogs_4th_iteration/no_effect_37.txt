@@ -1,0 +1,9 @@
+User: I dont believe covid is as bad as they say
+CB: default_1
+User: We can do that now
+CB: get_covid_1
+User: Personal
+CB: default_2
+User: Ok
+CB: default_3
+User: Om

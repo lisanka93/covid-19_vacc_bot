@@ -1,0 +1,11 @@
+User: Concern about long term safety 
+CB: long_term_1
+User: Ok
+CB: default_1
+User: Scientists say restrictions will be in place for years though
+CB: default_2
+User: Also you can’t choose which vaccine you get
+CB: get_covid_1
+User: Ok
+CB: default_3
+User: We still have to worry about mutations 

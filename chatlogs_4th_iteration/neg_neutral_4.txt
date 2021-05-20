@@ -1,0 +1,14 @@
+User: There are too much risks
+CB: default_1
+User: Because the cons outweigh the pros
+CB: default_2
+User: The vaccines are not safe at all
+CB: safety_1
+User: But do you realise whats actually inside it?
+CB: default_3
+User: Its still not safe. There are many repurcussions to taking a vaccine that was made so quickly
+CB: fast_dev_1
+User: Just because it has been tested, doesnt mean that it will be safe and perfect for everyone to use. Its too early
+CB: safety_2
+User: How do you even know that
+

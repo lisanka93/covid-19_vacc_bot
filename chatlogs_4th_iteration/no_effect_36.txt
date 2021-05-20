@@ -1,0 +1,13 @@
+User: The testing phase was short
+CB: fast_dev_1
+User: Still, the long therm effects are unknown
+CB: long_term_1
+User: It's possible i won't get infected, why take the risk anyway?
+CB: default_1
+User: That means not everyone has to be vaccinated
+CB: default_2
+User: Not everyone has to be vaccinated for herd immunity
+CB: default_3
+User: The effect of the vaccine for the long therm is unknown
+CB: long_term_2
+User: This still not makes me trust the vaccine

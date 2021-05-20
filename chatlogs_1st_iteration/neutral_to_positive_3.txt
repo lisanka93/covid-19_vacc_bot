@@ -1,0 +1,15 @@
+User: I'm not sure if it will be safe
+CB: safety_1
+User: I know, but I have to be completely sure of something I would be injecting into my body
+CB: default_1
+User: I have considered that but I would rather more people take it first
+CB: default_2
+User: How sure are we that something else won't spring up from the herd immunity?
+CB: default_3
+User: Sure, but what about possible side effects?
+CB: short_term_1
+User: Yes, but I don't want to risk having those side effects
+CB: short_term_2
+User: I don't know if my immune system would handle it
+CB: young_1
+User: Hmm

@@ -1,0 +1,9 @@
+User: i had covid
+CB: default_1
+User: vaccine havent been tested properly
+CB: safety_1
+User: it was forced
+CB: default_2
+User: ok
+CB: default_3
+User: ok

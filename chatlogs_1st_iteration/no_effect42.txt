@@ -1,0 +1,11 @@
+User: Because the vaccine is so new
+CB: default_1
+User: but it has not been properly tested
+CB: safety_1
+User: But we don't know anything about potential long term side effects
+CB: long_term_1
+User: I'm sure I will  be fine even if I catch COVID
+CB: default_2
+User: We can also create herd immunity by catching COVID and let our bodies fight it naturally
+CB: default_3
+User: Maybe

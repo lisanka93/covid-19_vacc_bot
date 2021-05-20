@@ -1,0 +1,13 @@
+User: it was rushed 
+CB: fast_dev_1
+User: So private company's are getting funding for developing this vaccine and then charging governments for it, governments that paid for research?
+CB: default_1
+User: Sweden seems unaffected, no mask mandate for them and everything open  
+CB: default_2
+User: i read that even with the vaccine you can still transmit covid and will likely need 3 jabs and still need to wear masks
+CB: get_covid_1
+User: I have seen videos of hospitals empty, not just in the UK but in the USA as well and Netherlands
+CB: default_3
+User: I dont want to get a vaccine for something so deadly i need to be tested to see if i even have it
+CB: safety_1
+User: the pfizer vaccine is banned in India

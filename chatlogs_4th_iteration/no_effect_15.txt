@@ -1,0 +1,13 @@
+User: The covid 19 vaccine will change my DNA and will alter the way my body works that is why I do not want to take it
+CB: effective_1
+User: If vaccines do work then why are there videos of people who are suffering the side effects from getting vaccinated
+CB: short_term_1
+User: Why do i still need to wear a mask then after taking the vaccine if it really workd why would i neef to get revaccinated that means it doesnt work
+CB: default_1
+User: Why should i get vaccinated for a disease which i am noy suffering from and which is being over announced by the media
+CB: default_2
+User: The vaccine will not protect us it does not work hence why there are people who having side effects becoming paralysed and having fits and body seizures
+CB: short_term_2
+User: The vaccine does not work it hasnt suffciently tested on a good amount of people a
+CB: default_3
+User: That is lie which you are saying the vaccine life wont be back to normal hence a nee covid strain is available and u would need to revaccinate us again and again hence showing that the current vaccine is useless againsy covid

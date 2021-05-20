@@ -1,0 +1,17 @@
+User: just going to wait until there is more information about the effects of the vaccine long term
+CB: long_term_1
+User: yes covid-19 is scary
+CB: default_1
+User: isn't worth the global risk
+CB: default_2
+User: i'm more at risk than a robot
+CB: default_3
+User: i must worry, the vaccine is a work in progress
+CB: effective_1
+User: the vaccines might work, and also have side effects
+CB: short_term_1
+User: this isn't a typical vaccine
+CB: safety_1
+User: seems like human testing
+CB: safety_2
+User: the vaccine contains protein

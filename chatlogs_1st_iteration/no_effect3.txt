@@ -1,0 +1,9 @@
+User: Because of theories
+CB: default_1
+User: Ye 
+CB: default_2
+User: Yes
+CB: default_3
+User: Because the vaccine might not last long
+CB: long_term_1
+User: ok

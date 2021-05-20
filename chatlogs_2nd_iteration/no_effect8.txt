@@ -1,0 +1,11 @@
+User: I don't fully trust it or deem it necessary for me
+CB: default_1
+User: Yes but it may not be fully effective
+CB: default_2
+User: OKay
+CB: default_3
+User: It may have side effects though
+CB: short_term_1
+User: This vaccine was made very quickly though, could say it's been rushed
+CB: fast_dev_1
+User: Okay interesting

@@ -1,0 +1,9 @@
+User: long term effects unknown
+CB: long_term_1
+User: will it cause infertility
+CB: default_1
+User: i cant trust it 
+CB: default_2
+User: what if it causes birth deffects
+CB: default_3
+User: ive already had covid to i need immunisation

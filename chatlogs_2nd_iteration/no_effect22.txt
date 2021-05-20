@@ -1,0 +1,11 @@
+User: I dont think the vaccine is safe
+CB: safety_1
+User: yeah but they all didnt got enough time to test the vaccine properly 
+CB: safety_2
+User: there is actually a reasons
+CB: default_1
+User: why they do start with the elderly people with so many heart conditions then 
+CB: default_2
+User: why they dont do that with normal people 
+CB: default_3
+User: there would be no such positive results , or they wont have who to blaim then 

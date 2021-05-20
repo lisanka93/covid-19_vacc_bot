@@ -1,0 +1,19 @@
+User: I don't believe extensive testin gon black people has been carried out
+CB: safety_1
+User: but they were not tested for as long as vaccines are usually tested for
+CB: safety_2
+User: they can not know what the long term side effects are as the testing was so short
+CB: long_term_1
+User: there are a percent of people who can not take vaccines anyway 
+CB: default_1
+User: being able to go out with friends isn't worth the risk of long term health issues the vaccine may bring
+CB: long_term_2
+User: the testing is never diverse
+CB: safety_3
+User: the vaccine was tested by having 2 doses within a couple of weeks and the government have changed this with regard to if it is still effective
+CB: mutation_1
+User: you need a second dose at 21 days which is being delayed
+CB: default_2
+User: a hostory of covid should technically work in the sam eway as the vaccine if the dose is not active
+CB: default_3
+User: but you can still get ill after a vaccine, people who get the mmr can still gets mumps for example

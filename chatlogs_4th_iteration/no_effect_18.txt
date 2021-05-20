@@ -1,0 +1,11 @@
+User: I believe its unsafe
+CB: safety_1
+User: Ive seen the adverse reactions of many people since having the vaccine
+CB: short_term_1
+User: How about serious illness and death?
+CB: default_1
+User: Agenda 21
+CB: default_2
+User: Ok
+CB: default_3
+User: I'd rather take my chances with covid

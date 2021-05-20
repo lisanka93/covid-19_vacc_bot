@@ -1,0 +1,7 @@
+User: The virus has a high survival rate
+CB: default_1
+User: We will see about that
+CB: default_2
+User: I don't believe that, it's all panto and drama
+CB: default_3
+User: I will not be convincing anyone to get an experimental vaccine.

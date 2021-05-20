@@ -1,0 +1,9 @@
+User: As I dont believe that the vaccine has been created to a high standered.
+CB: default_1
+User: but at the expense of perhaps your life
+CB: default_2
+User: thats just certain peoples opinion
+CB: death_1
+User: the news has always been fake
+CB: default_3
+User: who said i wont have to worry about my health anymore?

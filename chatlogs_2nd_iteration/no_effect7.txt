@@ -1,0 +1,11 @@
+User: Because my body is healthy as it is
+CB: young_1
+User: Because it has stupid side affects 
+CB: short_term_1
+User: I don’t trust doctors 
+CB: default_1
+User: I don’t have a need for it as I stay at home  
+CB: default_2
+User: I don’t take medicine or drugs
+CB: default_3
+User: My body may react to it 

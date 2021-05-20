@@ -1,0 +1,11 @@
+User: The vaccines cant guarantee protection 
+CB: default_1
+User: Thats what boris said last year and it hasnt worked
+CB: default_2
+User: What about the side effects?
+CB: short_term_1
+User: I dont think the vaccine has been trialled enough
+CB: default_3
+User: I worry the long term effects will be worse
+CB: long_term_1
+User: Its not guaranteed i will suffer from covid 19 badly though

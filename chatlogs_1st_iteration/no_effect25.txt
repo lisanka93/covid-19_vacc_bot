@@ -1,0 +1,11 @@
+User: because it is essentially injecting the virus into your body
+CB: mutation_1
+User: i agree, you dont know what will happen
+CB: default_1
+User: that is what everyone wnats
+CB: default_2
+User: i dont agree that that is the answer
+CB: default_3
+User: because the vaccine was produced too quickly
+CB: fast_dev_1
+User: i just dont believe it will work. and not everyone will get it

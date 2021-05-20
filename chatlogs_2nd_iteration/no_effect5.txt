@@ -1,0 +1,9 @@
+User: Because I believe that these vaccines have been rushed through development a little too hastily, and not enough time has been established to identify any long term side affects or other problems. Plus I have concerns about the 'no-liability' clause.
+CB: default_1
+User: We should be allowed to do that anyway. These lockdowns should never have happened, in my opinion. Here in Britain, they've clearly been unsuccessful.
+CB: default_2
+User: Even against the new variants? For every vaccine breakthrough, there are plenty of mutations taking place that may or may not render them useless.
+CB: mutation_1
+User: If you say so, but the news only today about the 'South African variant' has been pretty discouraging. People can have the vaccine if they like, just respect the wishes of those of us who may not.
+CB: default_3
+User: Nonsense! We ALWAYS have to look out for our health. Vaccines don't make us invincible.

@@ -1,0 +1,15 @@
+User: because it has been developed and rolled out so fast
+CB: fast_dev_1
+User: I understand that but we do not know long term side effects. you cannot buy time
+CB: long_term_1
+User: that might be true but I'd rather wait
+CB: default_1
+User: that is true, although pribably still some time away
+CB: default_2
+User: but there will be new variants
+CB: mutation_1
+User: there have been news about a variant where the vaccine doesnt work
+CB: mutation_2
+User: I will have to look into that
+CB: default_3
+User: true

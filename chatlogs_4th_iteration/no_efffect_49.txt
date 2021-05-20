@@ -1,0 +1,13 @@
+User: long term effects of vaccine
+CB: long_term_1
+User: exactly we dont know whether the vaccine is safe
+CB: safety_1
+User: development was too rushed
+CB: fast_dev_1
+User: i see
+CB: default_1
+User: only if enough people buy into this which doesnt seem like they will given many people are reluctant to get it
+CB: default_2
+User: yes if enough people get the vaccine which is unlikely given how unsafe it might be
+CB: default_3
+User: bollocks

@@ -1,0 +1,11 @@
+User: i do not want the vaccine because it has been developed in a short amount of time, so i'm not sure if it is safe
+CB: safety_1
+User: most vaccines take years to make
+CB: default_1
+User: why can they not just create more restrictions right now and lockdown. For people that do not listen give them fines and jail time
+CB: default_2
+User: it is not the only safe way. i think it is morally wrong to make everyone get a vaccine. I find it suspicious that countries may not let people in who do not get the vaccine.
+CB: default_3
+User: Alot of people have had bad reactions such as facial paralysis
+CB: short_term_1
+User: I would rather other people take it and give it a couple years so we can see the effects it has. then i will consider getting it.

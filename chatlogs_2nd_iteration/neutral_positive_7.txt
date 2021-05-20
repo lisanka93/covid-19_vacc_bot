@@ -1,0 +1,13 @@
+User: I just don’t trust it
+CB: default_1
+User: But what are the side effects
+CB: short_term_1
+User: If it was made so quickly how do you know that it works
+CB: fast_dev_1
+User: How do you know it works
+CB: default_2
+User: If there is herd immunity then I won’t need one
+CB: young_1
+User: But what if I never get it
+CB: default_3
+User: I will probably be one of the last to get it so there is no point

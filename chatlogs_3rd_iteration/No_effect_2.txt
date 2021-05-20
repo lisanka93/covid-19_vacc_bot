@@ -1,0 +1,9 @@
+User: To start with, it is clear our scientist and government don't know the full story behind this Covid, and by that I mean there are always constant change in the things we are told about this virus and a lot of controversies surrounding it. And to think a vaccine has been produced in so such a time and surrounded by these different theories about this virus definitelly makes it difficult for me to trust the vaccine enough to take it. Get this, I am not against vaccines, but when it comes to this Covid one, I am not just convinced about its safety, nor that it is efficient enough to serve the purpose for which it has been created. I am also skeptical about the way it was tested before introducing it to the masses
+CB: default_1
+User: it is left for people that feel safe with it to take it, besides there is no proof yet or evidence that the vaccine will get us back to normalcy any time soon, we've remained in lockdown for so long now even though the vaccine has been given to a reasonable number of people who are said to be in the major risk set
+CB: default_2
+User: Well there isn't any scientific proof yet that it will be the only way to get us back to normalcy
+CB: default_3
+User: So you say, there is still no evidence of that as I have learn't of people who suffer side effect from getting the vaccine. It has also led to some death, how do you justify that to your family and loved ones? I am not sold to taking the vaccine yet sorry
+CB: short_term_1
+User: I would still not be in a rush to get it any time soon

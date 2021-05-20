@@ -1,0 +1,9 @@
+User: They have been developed very quickly and not tested in the usual way.
+CB: safety_1
+User: It's simply not true to say no steps were missed: there were no animal studies, for example.
+CB: default_1
+User: That's not an answer. You are attemoting to deflect my objections.
+CB: default_2
+User: This is false. A vaccine is not the only way to create herd immunity. The development of herd immunity is a biological phenomenon that occurs without pharmacological intervention.
+CB: default_3
+User: You are clearly unable to respond to any specific arguments.

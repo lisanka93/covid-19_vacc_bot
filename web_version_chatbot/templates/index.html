@@ -32,7 +32,7 @@
           </div>
 
           <div class="msg-text">
-            Hi, I'm COVID-Vacc-Bot 😄! Before we start, please provide your student ID.
+            Hi, I'm COVID-Vacc-Bot 😄!
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
     </main>
 
     <form class="msger-inputarea">
-      <input type="text" class="msger-input" id="textInput" placeholder="Enter your message...">
+      <input type="text" class="msger-input" id="textInput" autocomplete="off" placeholder="Enter your message...">
       <button type="submit" class="msger-send-btn">Send</button>
     </form>
   </section>
@@ -97,7 +97,9 @@
       $.get("/arghealthbot{{ url_for('get_bot_response') }}", { msg: rawText }).done(function (data) {
         console.log(rawText);
         console.log(data);
+        //data = data.replace("\n","<br />\n");
         const msgText = data;
+
         appendMessage(BOT_NAME, BOT_IMG, "left", msgText);
 
       });

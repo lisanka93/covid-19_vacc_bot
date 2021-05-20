@@ -1,0 +1,7 @@
+User: It's been developed in a hurry
+CB: default_1
+User: Yes
+CB: default_2
+User: Ok
+CB: default_3
+User: Maybe

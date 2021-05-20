@@ -1,0 +1,11 @@
+User: Not confident in it. Took very little time to develop
+CB: default_1
+User: I get it. I just don't want to be forced into it
+CB: default_2
+User: ok
+CB: default_3
+User: Not to worry about my health? I've got bigger problems than getting "bigger flu"
+CB: flu_1
+User: People die from flu as well. 
+CB: flu_2
+User: It is important. People shouldn't be pushed into something if they are not comfortable with it. It is important to know ALL and EVERY detail about vaccine you put into your body

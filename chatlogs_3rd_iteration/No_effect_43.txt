@@ -1,0 +1,17 @@
+User: Because I am worried about the side effects 
+CB: short_term_1
+User: But what about long term side effects
+CB: long_term_1
+User: But the vaccine was developed in less than a year!
+CB: fast_dev_1
+User: I am still worried about the safety of the vaccine 
+CB: default_1
+User: I've heard it can affects female fertility
+CB: fertility_1
+User: Ok
+CB: default_2
+User: That's probably true 
+CB: default_3
+User: What if I die from the vaccine
+CB: death_1
+User: Makes sense 

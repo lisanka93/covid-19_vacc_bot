@@ -1,0 +1,17 @@
+User: Because I feel it’s been brought out too quickly
+CB: fast_dev_1
+User: Side effects are still unknown 
+CB: short_term_1
+User: I’m worried about the long term side effects of which we cannot be certain of until some time has passed
+CB: long_term_1
+User: I would rather take the risk with my own immune system than take a risk with the foreign bodies from a vaccine
+CB: young_1
+User: Many many people survive from Covid and we only hear about the bad cases 
+CB: default_1
+User: I feel
+CB: default_2
+User: We cdd as m
+CB: default_3
+User: We can achieve herd immunity through our own bodies defence 
+END
+User: Quit

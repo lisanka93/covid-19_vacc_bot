@@ -1,0 +1,13 @@
+User: Worried about side effects
+CB: short_term_1
+User: The chance of me catching COVID is low
+CB: young_1
+User: the vaccine wasn't tested long enough, what about long term side effects?
+CB: long_term_1
+User: They've made a mess of the handling of COVID and I don't trust them with the vaccinr
+CB: fast_dev_1
+User: why can't i wait a year and then get it later when we know the side effects?
+CB: short_term_2
+User: quit
+END
+User: quit

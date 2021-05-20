@@ -1,0 +1,9 @@
+User: I still uncertain at the moment, but will take it when I am certain it is safe.
+CB: safety_1
+User: Okay.
+CB: default_1
+User: This is what we all want to return to normal.
+CB: default_2
+User: okay.
+CB: default_3
+User: yes.

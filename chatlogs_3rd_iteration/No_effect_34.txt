@@ -1,0 +1,7 @@
+User: I don’t feel like I need one
+CB: default_1
+User: People should get vaccinated who need it and that will reduce cases
+CB: default_2
+User: Yes but i’ve never needed a flu jab and wasn’t poorly when I had covid 19 so why would I need a vaccine of something with a 99% survival rate 
+CB: default_3
+User: I don’t need to worry about my health as I was fine when I had the virus 

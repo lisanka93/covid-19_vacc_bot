@@ -1,0 +1,13 @@
+User: I think that it’ll cause side effects in the long term 
+CB: long_term_1
+User: So you agree with me that the long term effects are unknown. Please don’t try to persuade me otherwise 
+CB: long_term_2
+User: Pharmaceutical companies are greedy and they will not reveal the risk 
+CB: default_1
+User: The scientific community should try to find a cure for the disease not a vaccine 
+CB: default_2
+User: I don’t believe in herd immunity 
+CB: default_3
+User: I worry about the unknown long term effects 
+CB: long_term_3
+User: Because Covid is fly like virus, there aren’t any long term effects of the fly like viruses 

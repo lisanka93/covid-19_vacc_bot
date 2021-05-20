@@ -1,0 +1,21 @@
+User: There aren't many data that proof its safety
+CB: safety_1
+User: That is only a handful of people 
+CB: death_1
+User: The data shows the safety of the vaccine but we havent tested people after a while like a year after. What if there are some side effects?
+CB: default_1
+User: What if we are risking ourselves for short amusements 
+CB: fast_dev_1
+User: Its all being rushed 
+CB: fast_dev_2
+User: Ok what if i accept the vaccine and in 5 years i get serious side effects
+CB: short_term_1
+User: Who will take the blame if vaccine proves to be more harmful than good
+CB: safety_2
+User: I just dont think the vaccine is safe enough in longterm
+CB: safety_3
+User: That is because it was done recently. What if people report in a year or 2
+CB: default_2
+User: There are other ways to stay safe
+CB: default_3
+User: When I get the vaccine is when my worry starts 

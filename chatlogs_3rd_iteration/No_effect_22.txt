@@ -1,0 +1,15 @@
+User: unreliable
+CB: default_1
+User: not enough testing to prove it actually works
+CB: safety_1
+User: still concerned about efficiency of the vaccine
+CB: default_2
+User: side affects?
+CB: short_term_1
+User: can still die
+CB: default_3
+User: speed the vaccine was developed
+CB: fast_dev_1
+User: what about young and healthy individuals
+CB: young_1
+User: what about already affected people?

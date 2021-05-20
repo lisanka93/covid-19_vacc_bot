@@ -1,0 +1,17 @@
+User: the vaccine might have some side effects
+CB: short_term_1
+User: ok fair enough, but what about long term side effects
+CB: long_term_1
+User: I would rather wait and see whether there are any long term side effects from the vaccine
+CB: long_term_2
+User: in the past vaccines were not developed that fast
+CB: fast_dev_1
+User: fair enough
+CB: default_1
+User: that will still take a while so I might as well wait and observe
+CB: default_2
+User: true but I want to wait for a bit
+CB: default_3
+User: Given I dont know the long term side effects I would stll worry
+CB: long_term_3
+User: maybe

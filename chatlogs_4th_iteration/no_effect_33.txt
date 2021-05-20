@@ -1,0 +1,15 @@
+User: i do not belive it is safe
+CB: safety_1
+User: a vaccine can not be developed and tested in 7 months
+CB: safety_2
+User: more people have died after the vaccine was rolled out
+CB: death_1
+User: dos the govement tell the truth
+CB: default_1
+User: the govement has never told the truth ever so why should i trust them with my health
+CB: default_2
+User: a safe vaccine take years to  develope and test
+CB: safety_3
+User: what proof do you have of that
+CB: default_3
+User: if all you can do is reaped te same thing  ,   you will not convice many people

@@ -1,0 +1,10 @@
+User: There have been reports or people with negative reactions.
+CB: short_term_1
+User: Then explain the cases where people were hospitalized.
+CB: default_1
+User: What is the benefit of skipping the last two phases of the FDA approval when it compromises the quality of the study.
+CB: default_2
+User: That doesn't explain the benefit of project warp speed stopping at phase 3 before release of the vaccine.
+CB: default_3
+User: That isn't the point.  One of the well known vaccines from Moderna withheld information on the pink skin blotches issues for 8 out 35 patients in  their phase 1 study.
+

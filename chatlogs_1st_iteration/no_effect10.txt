@@ -1,0 +1,9 @@
+User: It has had mixed reviews and is too new on the market to trust
+CB: default_1
+User: I get that but there must be risks for some people
+CB: default_2
+User: Well, I read it hasn't been tested on pregnant women
+CB: safety_1
+User: It doesn't say anything about pregnant women though
+CB: default_3
+User: I don't know enough about it to convince anyone to take it

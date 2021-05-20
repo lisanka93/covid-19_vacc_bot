@@ -1,0 +1,13 @@
+User: because it is made so fast and there are so many different types of vaccines available in the market and now they are saying there are many strains of covid so what is the point in getting a vaccine made for one strain.
+CB: default_1
+User: but we should not be forced to get a vaccine because it is made and advised. we should have the liberty to say no to something we don't want injected
+CB: default_2
+User: but the fact that the vaccine is only made for a certain strain of covid does not cover all the strains of covid now present in the society and different countries.
+CB: mutation_1
+User: they say this now then in the future they will say that another new vaccine need to be injected or a third round of vaccine is needed to save lives. this is because we are making this in a rush and people are forced to get this in a rush. 
+CB: default_3
+User: that is not true because there are very few information on the side effects of the vaccine, which is daunting because it is forcefully already given to many people and some have also died.
+CB: short_term_1
+User: you are talking about short term effects but what about long term effects of the vaccine and note that it is given to everyone regardless of age or medical background.
+CB: long_term_1
+User: no one can really say this vaccine is safe for everyone because we already know in that in Norway and some other countries people have died due to this vaccine. 

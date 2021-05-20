@@ -1,0 +1,7 @@
+User: I am not sure what to think of it yet
+CB: default_1
+User: but we might not achieve herd immunity
+CB: default_2
+User: but we might never get to herd immunity due to new strains and people's ignorance
+CB: default_3
+User: yea you're probably right. at least I wont have to be paranoid about me or any of my family or friends catching it if we all get vaccinated, even if we wont achieve herd immunity

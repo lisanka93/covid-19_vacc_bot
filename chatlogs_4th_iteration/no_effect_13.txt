@@ -1,0 +1,11 @@
+User: The last time I had a flu vaccine, I woke up in the middle of the night with a panic attack 
+CB: flu_1
+User: Ok
+CB: default_1
+User: I don’t think this will be possible this year
+CB: default_2
+User: I think they are another methods to stop the spread of the virus
+CB: get_covid_1
+User: Maybe if will be a vaccine with 100% accuracy, maybe I will consider to take shot
+CB: default_3
+User: I will not do this, every person is free to do what she/he want

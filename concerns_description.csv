@@ -1,13 +1,15 @@
-Concern,Description,Discovered
-Cost,Potential high cost of the vaccine.,Inidial argument acquisition
-Side Effects,Possible long-term side effects that cannot be discovered in short time frame,Inidial argument acquisition
-Long-term side effects,,Inidial argument acquisition
-Givernment Trust,Lack of trust in the government due to past mistakes (e.g. introducing lockdown too late) or otherwise.,Inidial argument acquisition
-Government Economy,"Believe that government is only interested in kickstarting the economy, not the health of the nation.",Inidial argument acquisition
-Government Tax,"Worry that in order to finance and subsidise the vaccine, the government will raise taxes or divert funding from other essential projects.",Inidial argument acquisition
-Testing,Insufficient testing due to pressure to develop a vaccine as fast as possible.,Inidial argument acquisition
-Mutation,Possible mutation of the virus which would render the vaccine useless.,Inidial argument acquisition
-Health,Believe that young and healthy people don't need a vaccine and will be able to fight the virus without repercussions.,Chatbot 1
-Alternative Protection,"Believe that using masks, social distancing and proper hygiene will be enough to fight the virus.",Chatbot 2
-Natural Herd Immunity,"Believe that everyone should get the virus and create herd immunity “naturally""",Chatbot 2
-Vulnerable,Opinion that only vulnerable people should get the vaccine.,Chatbot 3
+Concern,Description
+Short-term side effects,Possible short term side effects of the vaccine
+Long-term side effects,Possible long-term side effects that cannot be discovered in short time frame
+Fast development,Fast development of the vaccine (which by many people is perceived as “rushed”) and the potential issues that may arise
+Young,Belief that young and healthy people dont need a vaccine because they can cope with COVID
+Mutation,Possible mutation of the virus which would render the vaccine useless
+Flu,Comparing COVID to the flu and downplaying its danger (people say that they also never got the flu shot and not intending to get the COVID vaccine)
+Safety,Safety concerns surrounding the vaccine
+Get COVID,That the vaccine does not prevent you from getting COVID
+Already had COVID,People refusing to get a vaccine bcauset they already had COVID
+High survival rate,That COVID has too high of a survival rate to be concerned
+Fertility,That the vaccine might impact fertility
+Effectiveness,Conceren about the actual effectiveness of the vaccine
+Natural herd immunity,"Believe that everyone should get the virus and create herd immunity “naturally"""
+Unknown ingredients,People not wanting to put unknown ingredients into their bodies

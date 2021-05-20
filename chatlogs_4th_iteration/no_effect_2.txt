@@ -1,0 +1,9 @@
+User: I feel like I will be safe without one as the virus only has severe effects on the elderly and those will underlying health conditions.
+CB: default_1
+User: But the vaccine only limits the severity of the symptoms, not the likelihood of catching/spreading the virus 
+CB: default_2
+User: It doesn't stop people from catching the virus, though, so this is a misleading argument
+CB: get_covid_1
+User: Yes, which goes back to my first point that only the elderly and people with other health problems will suffer
+CB: default_3
+User: You cannot know that for sure as people who are currently getting the vaccine are among the first and are essentially guine-pigs

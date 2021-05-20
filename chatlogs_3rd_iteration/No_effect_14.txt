@@ -1,0 +1,11 @@
+User: i don't want to take the COVID-19 vaccine because i believe it is not well tested.
+CB: safety_1
+User: i still don't trust the vaccine developers 100%
+CB: default_1
+User: i
+CB: default_2
+User: I know however, they say you can still catch the virus even after getting the vaccine.
+CB: default_3
+User: we just want to wait to see more information that would arise from people that have had the vaccine.
+END
+User: quit

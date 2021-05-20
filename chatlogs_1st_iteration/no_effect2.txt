@@ -1,0 +1,9 @@
+User: adverse reaction
+CB: short_term_1
+User: im diabetic
+CB: default_1
+User: dangerous chemical
+CB: default_2
+User: it is against my religion
+CB: default_3
+User: religion come 1st

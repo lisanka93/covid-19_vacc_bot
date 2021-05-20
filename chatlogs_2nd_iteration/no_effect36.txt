@@ -1,0 +1,9 @@
+User: I don’t want to take it as I believe it’s been rushed, I feel weary of a vaccine that’s been created in 8 months. I am also a young female and I would like to have children in the near future, I do not want my fertility to be affected
+CB: default_1
+User: Yes but having children is more important to me
+CB: default_2
+User: No as the virus will mutate and will cause another strain and outbreak
+CB: mutation_1
+User: I still do not agree. You should not rush into a vaccine that has been produce in 8 months 
+CB: default_3
+User: I will have to worry as it affects fertility 

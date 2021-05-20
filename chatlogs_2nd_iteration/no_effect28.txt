@@ -1,0 +1,15 @@
+User: I don't want to inject my body with a foreign vaccine where i do not know the long-term effect
+CB: long_term_1
+User: Thanks
+CB: default_1
+User: I'm being safe by staying in at the moment and letting the older generation get their vaccines now 
+CB: safety_1
+User: Step?
+CB: default_2
+User: I'm not willing to take it unless absolutely necessary 
+CB: young_1
+User: Hmm maybe I'll give that a watch later. Back to the point, i haven't done much investigating myself so i wouldnt take it until I've considered different things
+CB: default_3
+User: How can you say that for certain? You can't guarantee that so you can't state that as a fact
+CB: get_covid_1
+User: Again, you don't know that for certain. We have no proof to say you can't still transmit the virus

@@ -1,0 +1,11 @@
+User: I have had numerous bad injections to jabs beforehand that have caused permanent damage to me. The doctors then completely denied the serious reactions that I had and I was completely medically neglected. I have also been repeatedly lied to by medical professionals over the last 3 decades. I have a lot of complex medical problems too, so don't know how my body will react to the vaccine.
+CB: default_1
+User: I will never be able to have a normal life because I am seriously ill, completely medically neglected and because the NHS are useless and completely corrupt. My life will also be made a lot worse if my body has a bad reaction to the jab... So no, we can't all go back to normal.
+CB: default_2
+User: But is the vaccine safe for me? You state that it is safe without knowing any of my medical history.
+CB: safety_1
+User: I am pretty sure they did not test the vaccine on people with my health problems. Also lots of other medicines have been declared safe by the medical industry, to be later found out that they are not. This has personally happened to me. The medical industry always try to cover up when this happens and never take responsibility.
+CB: safety_2
+User: You can't test something thoroughly and know all possible reactions/consequences in less than a year. Some peoples bodies react differently.
+CB: default_3
+User: Are you stupid? Of course I will have to worry about my health. I have progressive health problems. I have been getting sicker and sicker for the last 35 years. I suffer with hundreds of symptoms. I suffer immensely every single day. The vaccine won't fix my health, so why on earth would you say that I will no longer have to worry about my health if I get the vaccine.

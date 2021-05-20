@@ -1,0 +1,11 @@
+User: Uncertainty that it will work
+CB: default_1
+User: I would rather stay at home indoors like this and be safe
+CB: safety_1
+User: But again it's there word we have to risk our lives on
+CB: default_2
+User: Again no guarantee it will 100% work
+CB: safety_2
+User: Because until I see clear cut evidence that this is working, I will not change my mind
+CB: default_3
+User: Yes I have considered that but I have managed 11 months

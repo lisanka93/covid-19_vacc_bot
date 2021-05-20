@@ -1,0 +1,9 @@
+User: because they only tested it for maybe 1 year or a year and a half
+CB: default_1
+User: Well i am not most people and i normally don't go outside
+CB: death_1
+User: I've also had someone in my family who was over 80 get covid and they only got a runny nose.
+CB: default_2
+User: We could also get herd immunity by not taking the vaccine and letting are own immune systems work as they should.
+CB: default_3
+User: I feel if you are taking enough vitamins you should be ok with getting covid.

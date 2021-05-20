@@ -1,0 +1,9 @@
+User: Because I don't know engouth information about it  just to blindly take it 
+CB: default_1
+User: Yet, how can I even trust we can ever go back to normal, when we have a goverment which has lied, been corrupt and mislead people ever step of the way. 
+CB: default_2
+User: again,I don't trust we can go back to norman. Even the sleepy goverment has suggested that 
+CB: default_3
+User: I'm not worried in the first place though 
+CB: short_term_1
+User: I've gone a year and not caught it, why would I want to risk myself for the word of a lying goverment 

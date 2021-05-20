@@ -1,0 +1,9 @@
+User: I don't even get flu vaccinations, I think I am too young and don't need it. I also don't really trust it either
+CB: default_1
+User: People who are vulnerable should get the vaccine if they want
+CB: default_2
+User: But what if the vaccine is dangerous?
+CB: default_3
+User: Are people dying and getting sick from the vaccine?
+CB: death_1
+User: But this has just happened to my family, my Grandad got the vaccine and a week later died suddenly, I find it hard to think it was a coincidence, plus Switzerland are worried about this too

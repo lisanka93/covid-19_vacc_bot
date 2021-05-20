@@ -1,0 +1,7 @@
+User: I'm unsure if I'll be allowed the vaccine due to a medical condition.
+CB: default_1
+User: True, but I think we should still be cautious and not rush to go back to normality too soon.
+CB: default_2
+User: If my GP gives me the all clear, then I'll more than happily have the vaccine. However, I still don't think the vaccine will protect us all fully.
+CB: default_3
+User: I think it's a bit too soin to ve saying we won't have to worry about our health anymore. The virus will still be out there and some will still catch it or transfer it to others. The vaccine won't fully protect us. 

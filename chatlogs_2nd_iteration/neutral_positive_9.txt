@@ -1,0 +1,9 @@
+User: I believe it is not necessary for me as I am not in a risk group 
+CB: young_1
+User: Okay thanks 
+CB: default_1
+User: Okay, that actually makes sense
+CB: default_2
+User: Okay, I understand 
+CB: default_3
+User: I do agree

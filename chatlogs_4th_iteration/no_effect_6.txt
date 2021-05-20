@@ -1,0 +1,13 @@
+User: It looks that it is not properly tested
+CB: safety_1
+User: because it takes years to test this kind of vaccine
+CB: fast_dev_1
+User: it is shown to the public to convince it
+CB: default_1
+User: It will not be possible for a year or longer anyway. No normal life is expected soon
+CB: default_2
+User: It has been spread to more than 80% of population. We have to develop immunity by ourselves because nothing can fully protect us anyway 
+CB: get_covid_1
+User: They can get ill with the other mutations.
+CB: default_3
+User: Sounds unreal cause vaccine does not protect for 100%

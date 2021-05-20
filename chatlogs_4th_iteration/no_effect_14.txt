@@ -1,0 +1,11 @@
+User: I dont think the covid virus ia as bad as is being made out. 
+CB: default_1
+User: We could do that anyway as the figures are no worse than the comman flu
+CB: default_2
+User: I disagree and think we would be fine without the vaccine 
+CB: default_3
+User: I dont worry about my health or the health of my familyof my 
+CB: young_1
+User: I dont believe everything i watch but would rather go on the evidence i see with my own eyes. 
+END
+User: Quit

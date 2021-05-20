@@ -1,0 +1,11 @@
+User: I am not sure about its,  it's early days, the virus mutated constantly 
+CB: default_1
+User: Yes, but herd immunity is only if noone can catch the virus, sadly tje vaccine doesn't give protection against the virus
+CB: get_covid_1
+User: Unless it mutates to a variant when the vaccine won't work at all
+CB: mutation_1
+User: I just simply don't want to injection something into my body if I don’t believe in it
+CB: default_2
+User: As I said herd immunity exists only if we won't be able to catch the virus, the vaccine doesn't give protection against it
+CB: default_3
+User: I don’t worry about my health at the moment

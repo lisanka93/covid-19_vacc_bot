@@ -1,0 +1,9 @@
+User: i don't think i am at risk.
+CB: default_1
+User: i've considered this fear tactic, yes.
+CB: default_2
+User: why should anyone NOT be allowed to get it in the first place?
+CB: default_3
+User: because they're perfectly healthy
+CB: young_1
+User: maybe we should stop playing with "agent orange" and go back to church already.

@@ -1,0 +1,23 @@
+User: I do not feel that it has been tested for a long enough time frame to be sure it works
+CB: long_term_1
+User: I have already had Covid twice and survived so how can you know the side effects are not worse than the virus
+CB: short_term_1
+User: How do you know there aren’t long term side effects
+CB: long_term_2
+User: You say a very long time ago, Covid has only been around for a year ?
+CB: long_term_3
+User: They say that about flu but I don’t get the flu jab either so why would I get the Covid vaccine
+CB: flu_1
+User: But not all Covid survivors have long terms effects do they
+CB: long_term_4
+User: I feel the information on Covid survivors needs to be looked at more before we can weigh up whether everybody needs a vaccine
+CB: default_1
+User: They don’t know that it creates hers immunity though that hasn’t been tested 
+CB: safety_1
+User: I’ve read that even when you’ve had the vaccine you can still spread Covid you just don’t suffer the illness
+CB: default_2
+User: What if we all got vaccinated and a new variant developed that was resistant, do we then keep having more vaccines 
+CB: default_3
+User: I disagree as it’s still not been proven that vaccinated people can’t spread the disease
+END
+User: Quit

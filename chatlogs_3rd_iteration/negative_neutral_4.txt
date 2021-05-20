@@ -1,0 +1,13 @@
+User: There hasn’t been enough testing and the side effects aren’t very well known 
+CB: short_term_1
+User:  Hi who knows what the long term side effects are for example with child bearing woman later down the line 
+CB: long_term_1
+User: In addition we don’t know that these vaccines will cover all the variants or last longer than several months 
+CB: default_1
+User:  That’s if we achieve herd immunity of the vaccine works why do I have to remain socially distanced form people 
+CB: default_2
+User: I disagree we need to move forward and start to open up we can’t rely on a vacck W 
+CB: default_3
+User:  I disagree as the vaccine doesn’t prevent you from catching or spreading Covid 
+CB: get_covid_1
+User: You might get less symptoms but Covid will still exist 

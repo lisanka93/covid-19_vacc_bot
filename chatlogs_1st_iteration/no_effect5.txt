@@ -1,0 +1,9 @@
+User: I don't even get flu vaccines, and people have been dying after taking the vaccine
+CB: flu_1
+User: ok?
+CB: default_1
+User: cool story
+CB: default_2
+User: are you guys building a bot to change people's minds?
+CB: default_3
+User: this is so weird

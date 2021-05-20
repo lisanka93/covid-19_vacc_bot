@@ -1,0 +1,17 @@
+User: because it has only being developed in the past year
+CB: fast_dev_1
+User: ok
+CB: default_1
+User: ok
+CB: default_2
+User: the virus has greater than 99% survival rate, the "vaccine" is unnecessary
+CB: survival_rate_1
+User: low death rate
+CB: default_3
+User: you can still transmit the virus with the vacinne
+CB: get_covid_1
+User: the mRNA has never passed animal-testing before because it ALWAYS killed all the animals. these tests were bypassed in the COVID-19 vacinne development
+CB: fast_dev_2
+User: but they never passed animal-testing stages for a reason, these checks were bypassed this time
+END
+User: quit

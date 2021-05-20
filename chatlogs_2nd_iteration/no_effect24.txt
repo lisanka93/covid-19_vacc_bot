@@ -1,0 +1,7 @@
+User: the governent
+CB: default_1
+User: and the government will have more control
+CB: default_2
+User: because
+CB: default_3
+User: yes i have, but we dont knwo whats in it

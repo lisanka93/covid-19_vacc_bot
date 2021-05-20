@@ -1,0 +1,11 @@
+User: Because i don't think it has been tested enough.
+CB: safety_1
+User: I still feel it is unsafe.
+CB: default_1
+User: I don't believe it will be as simple as that.
+CB: default_2
+User: I still don't want to have the vaccine.
+CB: default_3
+User: I am still very concerned that the vaccine is not safe.
+CB: safety_2
+User: But i think it is very unlikely anyway that i will get Covid.

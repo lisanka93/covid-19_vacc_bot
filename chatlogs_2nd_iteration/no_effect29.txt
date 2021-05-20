@@ -1,0 +1,13 @@
+User: I do not want to take a COVID-19 vaccine once one becomes available to me because this vaccine has not been tested for an extented period of time and we do not know the side effects that people will maybe get in a couple of years
+CB: default_1
+User: No, is it said that the vaccine makes females to not be able to give birth in the future.
+CB: default_2
+User: No, i still do not want to take a COVID-19 vaccine because it can contain a microchip that locates me.
+CB: get_covid_1
+User: No, because some people that have been vaccinated say that they had side effects (e.g.trembling).
+CB: short_term_1
+User: It still not tested enought. Usually, vaccines are getting tested for years before given to the public.
+CB: safety_1
+User: No, i still do not want to get a COVIS-19 vaccine. In the news i heard that people get two different vaccines during the two stages of the vaccination and not the same ''brand'' of the vaccine! 
+CB: default_3
+User: We are still not 100% sure about its effectiveness. News said that it can not protect you from the new covid-19 type that has been found in Africa.
